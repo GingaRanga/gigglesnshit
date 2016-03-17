@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 
-http://www.gigglesnshit.com/sitemap.xml
