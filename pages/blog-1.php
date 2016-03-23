@@ -72,11 +72,16 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
+            	<?php
+					include("../php/comment.php");
+				?>
                 <h1>Giggles N Shit</h1>
                 <hr>
             </div>
         </div>
     </header>
+    
+    
 
     <section class="bg-primary" id="about">
         <div class="container">
@@ -121,54 +126,13 @@ You know what… screw searching for these things… it is 2016 and I am not a m
         </div>
     </section>
                 
- 	<aside class="bg-dark">
-    	<div class="container text-center">
-            <!-- Button trigger modal -->
-            <p><i class="fa fa-4x fa-commenting wow bounceIn text-primary"></i></p>
-            <button type="button" class="btn btn-default btn-xl wow tada" data-toggle="modal" data-target="#myModal">
-                Click Here to Leave a Comment
-            </button>
-        
-            <!-- Modal -->
-            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 style="color:#5763AC;" class="modal-title" id="myModalLabel">Please Fill Out All Info Below</h4>
-                        </div><!-- ./header -->
-                        <form action="../php/comment.php" method="post">
-                            <div class="modal-body">
-                                <div class="form-group">
-                                    <label for="username">Username</label>
-                                    <input class="form-control text-center" id="username" type="text" name="username" placeholder="Can be any format. Username for comments and forum " maxlength="50">
-                                </div>
-                                <div class="form-group">
-                                    <label for="email">Email</label>
-                                    <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="50">
-                                </div>
-                                <div class="form-group">
-                                    <label for="password">Password</label>
-                                    <input class="form-control text-center" id="password" type="password" name="password" placeholder="Please enter your password" maxlength="50">
-                                </div>
-                                <div class="form-group">
-                                    <label for="comment">Comment</label>
-                                    <textarea class="form-control" id="comment" rows="5" type="comment" name="comment" placeholder="Leave Comment Here..." maxlength="500"></textarea>
-                                </div>
-                                <div class="form-group">
-                                	<input type="hidden" name="articleid" id="articleid" value="<? echo $_GET['id']; ?>">
-                                </div>
-                            </div><!-- ./body -->
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                <button type="submit" name="submit" class="btn btn-default">Submit</button>
-                            </div><!-- ./footer -->
-                        </form>
-                    </div><!-- ./content -->
-                </div><!-- ./dialog -->
-            </div><!-- ./modal -->
-      	</div>
-    </aside>
+    <?php
+		include("../php/comment-form.php");
+	?>
+    
+    <?php
+		include("../php/comment-display.php");
+	?>
 
     <section id="contact">
         <div class="container">
