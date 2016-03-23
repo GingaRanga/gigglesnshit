@@ -137,19 +137,23 @@ You know what… screw searching for these things… it is 2016 and I am not a m
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                             <h4 style="color:#5763AC;" class="modal-title" id="myModalLabel">Please Fill Out All Info Below</h4>
                         </div><!-- ./header -->
-                        <form action="#" method="post">
+                        <form action="../php/comment.php" method="post">
                             <div class="modal-body">
                                 <div class="form-group">
                                     <label for="username">Username</label>
-                                    <input class="form-control text-center" id="username" type="text" name="username" placeholder="Can be any format. Username for comments and forum " maxlength="60">
+                                    <input class="form-control text-center" id="username" type="text" name="username" placeholder="Can be any format. Username for comments and forum " maxlength="50">
                                 </div>
                                 <div class="form-group">
                                     <label for="email">Email</label>
-                                    <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="60">
+                                    <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="50">
+                                </div>
+                                <div class="form-group">
+                                    <label for="password">Password</label>
+                                    <input class="form-control text-center" id="password" type="password" name="password" placeholder="Please enter your password" maxlength="50">
                                 </div>
                                 <div class="form-group">
                                     <label for="comment">Comment</label>
-                                    <textarea class="form-control" id="comment" rows="5" type="comment" name="comment" placeholder="Leave Comment Here..."></textarea>
+                                    <textarea class="form-control" id="comment" rows="5" type="comment" name="comment" placeholder="Leave Comment Here..." maxlength="500"></textarea>
                                 </div>
                                 <div class="form-group">
                                 	<input type="hidden" name="articleid" id="articleid" value="<? echo $_GET['id']; ?>">
