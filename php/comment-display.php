@@ -25,29 +25,37 @@
 	$comments = mysql_query($query);
 	
 	//comments being posted message to user
-	echo '<div class="alert alert-success alert-dismissible fade in" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">x</span></button>User Comments</div>';
+	echo '<section class="bg-primary"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h3>User Comments</h3><hr class="light"></div></div></div></section>';
 	
 	//loop through all of the comments and each comment is stored in variable $row
 	while($row = mysql_fetch_array($comments, MYSQL_ASSOC)){
 		
 		//loop through and pull data from each row of the db table
 		$username = $row['username'];
-  		$email = $row['email'];
+		$timestamp = $row['timestamp'];
   		$comment = $row['comment'];
-  		$timestamp = $row['timestamp'];
 		
 		//to stop hacker from typing in redirect link under one of the above rows and redirecting users to malware
 		$username = htmlspecialchars($row['username'],ENT_QUOTES);
-  		$email = htmlspecialchars($row['email'],ENT_QUOTES);
   		$comment = htmlspecialchars($row['comment'],ENT_QUOTES);
 		
 		//print comments to screen with css formatting
 		echo 
-			'<div style="margin:30px 0px;">
-      			Username: $name<br />
-      			Email: $email<br />
-      			Comment: $comment<br />
-      			Timestamp: $timestamp
+			'<div class="jumbotron">
+				<div class="container">
+					<h4 class="section-heading">
+						$username<br />
+						<small>
+							$timestamp
+						</small>
+					</h4>
+					<div class="well well-lg">
+						$comment<br />
+					</div>
+				</div>
+				<button style="margin-right:5%;" type="btn" class="btn btn-default pull-right">
+					Reply
+				</button>
     		</div>';
 	}
 	
