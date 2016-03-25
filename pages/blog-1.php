@@ -103,7 +103,7 @@ You know what… screw searching for these things… it is 2016 and I am not a m
 
 <hr class="light">
 
-<div class="embed-responsive-item"><iframe src="https://www.youtube.com/embed/uMyR9RRYSrM" frameborder="0" allowfullscreen></iframe></div><br><br>kb;p[ih 
+<div class="embed-responsive-item"><iframe src="https://www.youtube.com/embed/uMyR9RRYSrM" frameborder="0" allowfullscreen></iframe></div><br><br>
 
 <p class="text-faded">Sorry about that tangent, now back to the main story: we met at Sackville High. I was fresh out of a relationship and my friend, who never knew how to stay away from the “friend-zone,” devised a new (failure) of a scheme to pickup a lady-friend whom he had eyes for. This lady-friend turned out to be friends with my now current and only wife. All he had to do was tell me I was on the list of who she found cute in high school and I was like “BAM! Cat in the bag!” Triple date time with two of my good lads. It was Halloween night and we went out to see one of the worst movies to franchises in existence: “Saw.” You know, the first one, the one where the guy uses a jig-saw to cut off his hand to escape the game. My 4 year old nephew can act better than that for a Klondike bar. The movie went well, my two buddies bitched out and went home afterwards, and Katie had a fabulous idea to keep the night young. “Let’s go trick or treating.” (to many of my friend’s and families’ dismay my trick or treating went on until I was into my early 20s).</p>
 

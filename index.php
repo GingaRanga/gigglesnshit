@@ -121,6 +121,9 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
+            	<?php
+					include("php/signup.php");
+				?>
                 <h1>Giggles N Shit</h1>
                 <hr>
                 <p>It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man.</p>
@@ -180,7 +183,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-gift wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Sign Up!</h3>
-                        <p class="text-muted">I will be posting blogs quite frequently so make sure you <a>sign up</a> to my blog community so you don't miss any new blog posts, important communications, as well as special gifts just for you! Do not worry, I will never spam you, spammers are douches! Also keep in mind that my blog posts will be very dynamic. They will contain pictures and videos... I find plain text makes my head spin after a while so I want to spruce it up for ya!</p>
+                        <p class="text-muted">I will be posting blogs quite frequently so make sure you <a href="php/signup-form.php">sign up</a> to my blog community so you don't miss any new blog posts, important communications, as well as special gifts just for you! Do not worry, I will never spam you, spammers are douches! Also keep in mind that my blog posts will be very dynamic. They will contain pictures and videos... I find plain text makes my head spin after a while so I want to spruce it up for ya!</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -290,7 +293,7 @@
             </div>
         </div>
     </section>
-
+    
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
@@ -309,35 +312,12 @@
         						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         						<h4 style="color:#5763AC;" class="modal-title" id="myModalLabel">Please Fill Out All Boxes to Register</h4>
       						</div><!-- ./header -->
-                            <form action="php/blog-db.php" method="post">
-                            	<div class="modal-body">
-                                    <div class="form-group">
-                                        <label for="username">Username</label>
-                                        <input class="form-control text-center" id="username" type="text" name="username" placeholder="Can be any format. Username for comments" maxlength="50">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="name">Full Name</label>
-                                        <input class="form-control text-center" id="name" type="text" name="name" placeholder="Please type your full name" maxlength="50">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="email">Email</label>
-                                        <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="50">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="password">Password</label>
-                                        <input class="form-control text-center" id="password" type="password" name="password" placeholder="For better security please use alphanumeric characters" maxlength="50">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="cpassword">Confirm Password</label>
-                                        <input class="form-control text-center" id="cpassword" type="password" name="cpassword" placeholder="Both your passwords need to match" maxlength="50">
-                                    </div>
-                                </div><!-- ./body -->
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                    <button type="submit" name="submit" class="btn btn-default">Submit</button>
-                                </div><!-- ./footer -->
-                            </form>
-    					</div><!-- ./content -->
+
+							<?php
+                                include("php/signup-form.php");
+                            ?>
+                            
+                                					</div><!-- ./content -->
   					</div><!-- ./dialog -->
 				</div><!-- ./modal -->
             </div>
