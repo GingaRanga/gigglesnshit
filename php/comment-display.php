@@ -19,43 +19,37 @@
     	die('<div class="alert alert-danger alert-dismissible fade in" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">x</span></button>invalid article id</div>');
 	
 	//update query with article id and store in $query variable
-	$query = "SELECT * FROM `usercomments` WHERE `articleid` =$article_id LIMIT 0 , 30";
-	
-	//run query against our db and store in variable $comments
-	$comments = mysql_query($query);
+	$query = mysql_query("SELECT * FROM `usercomments` WHERE `articleid` =$article_id",$con);
 	
 	//comments being posted message to user
 	echo '<section class="bg-primary"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h3>User Comments</h3><hr class="light"></div></div></div></section>';
 	
 	//loop through all of the comments and each comment is stored in variable $row
-	while($row = mysql_fetch_array($comments, MYSQL_ASSOC)){
+	while($row = mysql_fetch_array($query)){
 		
 		//loop through and pull data from each row of the db table
-		$username = $row['username'];
-		$timestamp = $row['timestamp'];
-  		$comment = $row['comment'];
+		$db_username = $row['username'];
+		$db_timestamp = $row['timestamp'];
+  		$db_comment = $row['comment'];
 		
 		//to stop hacker from typing in redirect link under one of the above rows and redirecting users to malware
-		$username = htmlspecialchars($row['username'],ENT_QUOTES);
-  		$comment = htmlspecialchars($row['comment'],ENT_QUOTES);
+		$db_username = htmlspecialchars($row['username'],ENT_QUOTES);
+  		$db_comment = htmlspecialchars($row['comment'],ENT_QUOTES);
 		
 		//print comments to screen with css formatting
 		echo 
 			'<div class="jumbotron">
 				<div class="container">
-					<h4 class="section-heading">
-						$username<br />
-						<small>
-							$timestamp
-						</small>
+					<h4 class="section-heading">'
+						.$db_username.'<br />
+						<small>'
+							.$db_timestamp.
+						'</small>
 					</h4>
-					<div class="well well-lg">
-						$comment<br />
+					<div class="well well-lg">'
+						.$db_comment.'<br />
 					</div>
 				</div>
-				<button style="margin-right:5%;" type="btn" class="btn btn-default pull-right">
-					Reply
-				</button>
     		</div>';
 	}
 	

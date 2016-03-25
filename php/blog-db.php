@@ -61,14 +61,14 @@
 
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
-       		<a class="navbar-brand page-scroll" href="../index.html">Giggles N Shit Blog</a>
+       		<a class="navbar-brand page-scroll" href="../index.php">Giggles N Shit Blog</a>
         </div>
         <!-- /.container-fluid -->
     </nav>
     
     <aside>
         <div class="container text-center">
-  			<p style="color:black;">Click <a href='../index.html' style='color:#5763AC;'>HERE</a> to be redirected to the homepage.</p>
+  			<p style="color:black;">Click <a href='../index.php' style='color:#5763AC;'>HERE</a> to be redirected to the homepage.</p>
        </div>
    </aside>
     

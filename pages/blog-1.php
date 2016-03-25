@@ -63,7 +63,7 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <a class="navbar-brand page-scroll" href="../index.html">Giggles N Shit Blog</a>
+                <a class="navbar-brand page-scroll" href="../index.php">Giggles N Shit Blog</a>
             </div>
         </div>
         <!-- /.container-fluid -->
