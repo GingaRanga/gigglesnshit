@@ -11,7 +11,7 @@
                                     </div>
                                     <div class="form-group">
                                         <label for="email">Email</label>
-                                        <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="50">
+                                        <input class="form-control text-center" id="email" type="email" name="email" placeholder="Use format of example@example.com" maxlength="255">
                                     </div>
                                     <div class="form-group">
                                         <label for="password">Password</label>
