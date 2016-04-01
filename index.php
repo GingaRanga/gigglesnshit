@@ -216,15 +216,15 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/family.jpg" class="img-responsive" alt="">
+                    <a href="pages/blog-2.php?id=2" class="portfolio-box">
+                        <img src="img/portfolio/watermelon.JPG" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    POST 2 - DATE
+                                 	"The Watermelon Incident..."
                                 </div>
                                 <div class="project-name">
-                                    Coming Soon!
+                                 	March 28th, 2016
                                 </div>
                             </div>
                         </div>
@@ -328,53 +328,64 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Drop me a Line</h2>
-                    <hr class="primary">
-                    <p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
-                </div>
-                <div class="col-lg-12 text-center">
-                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="col-lg-3 text-center">
-                        <a href="#"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                 	<h2 class="section-heading">Drop me a Line</h2>
+                  	<hr class="primary">
+                  	<p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
+                    <div class="col-lg-12 text-center">
+                        <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                        <p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.facebook.com/evan.marshall.3762"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.instagram.com/instagingagram/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                </div>
-            </div>
-            <hr>
-            <p class="text-center">To go to password update page click <a href="php/password.php">HERE</a></p>
+                    <div class="col-lg-3 text-center">
+                        <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    </div>
+        		</div>
+     		</div>
+     	</div>
+ 	</section>
             
-            <p class="text-center">
-            <!-- Start of StatCounter Code for Dreamweaver -->
-			<script type="text/javascript">
-            var sc_project=10886934; 
-            var sc_invisible=0; 
-            var sc_security="c23d5ac3"; 
-            var scJsHost = (("https:" == document.location.protocol) ?
-            "https://secure." : "http://www.");
-            document.write("<sc"+"ript type='text/javascript' src='" +
-            scJsHost+
-            "statcounter.com/counter/counter.js'></"+"script>");
-            </script>
-            <noscript><div class="statcounter"><a title="shopify stats"
-            href="http://statcounter.com/shopify/" target="_blank"><img
-            class="statcounter"
-            src="http://c.statcounter.com/10886934/0/c23d5ac3/0/"
-            alt="shopify stats"></a></div></noscript>
-            <!-- End of StatCounter Code for Dreamweaver -->
-            </p>
+    <section id="admin" class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <p>To login click <a href="#">HERE</a></p><br>
+                    <p>To update profile click <a href="#">HERE</a></p><br>
+                    <p>To update password click <a href="php/password.php">HERE</a></p><br>
+             	</div>
             
-        </div>
+            	<div class="text-center col-lg-4">
+            		<!-- Start of StatCounter Code for Dreamweaver -->
+					<script type="text/javascript">
+						var sc_project=10886934; 
+						var sc_invisible=0; 
+						var sc_security="c23d5ac3"; 
+						var scJsHost = (("https:" == document.location.protocol) ?
+						"https://secure." : "http://www.");
+						document.write("<sc"+"ript type='text/javascript' src='" +scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
+                	</script>
+                	<noscript>
+                		<div class="statcounter">
+                    		<a title="shopify stats"href="http://statcounter.com/shopify/" target="_blank">
+                        		<img class="statcounter"src="http://c.statcounter.com/10886934/0/c23d5ac3/0/" alt="shopify stats">
+                     		</a>
+                		</div>
+             		</noscript>
+                	<!-- End of StatCounter Code for Dreamweaver -->
+    				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
+            	</div>
+                <div class="text-center col-lg-4">
+                    <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
+        		</div>
+         	</div>
+    	</div>
     </section>
 
 <!-- MINIFIED BOOTSTRAP JQUERY ====================================================================================================================================--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>

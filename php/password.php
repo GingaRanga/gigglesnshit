@@ -41,6 +41,30 @@
     
 <!-- FONT-AWESOME ================================================================================================================================================ -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-3dkvEK0WLHRJ7/Csr0BZjAWxERc5WH7bdeUya2aXxdU= sha512-+L4yy6FRcDGbXJ9mPG8MT/3UCDzwR9gPeyFNMCtInsol++5m3bk2bXWKdZjvybmohrAsn3Ua5x8gfLnbE1YkOg==" crossorigin="anonymous">
+    
+<!-- FAVICONS ==================================================================================================================================================== -->    
+ 	<link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="../img/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../img/favicon/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="../img/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="../img/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="../img/favicon/manifest.json">
+    <link rel="mask-icon" href="../img/favicon/safari-pinned-tab.svg" color="#5763ac">
+    <link rel="shortcut icon" href="../img/favicon/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="GigglesNShit">
+    <meta name="application-name" content="GigglesNShit">
+    <meta name="msapplication-TileColor" content="#5763ac">
+    <meta name="msapplication-TileImage" content="../img/favicon/mstile-144x144.png">
+    <meta name="msapplication-config" content="../img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#5763ac">
 
 <!-- PLUGIN CSS ================================================================================================================================================== -->
     <link rel="stylesheet" href="../css/animate.min.css" type="text/css">
@@ -230,16 +254,16 @@
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <div class="col-lg-3 text-center">
-                        <a href="#" style="color:white;"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.facebook.com/evan.marshall.3762" style="color:white;"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#" style="color:white;"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.instagram.com/instagingagram/" style="color:white;"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#" style="color:white;"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav" style="color:white;"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                     <div class="col-lg-3 text-center">
-                        <a href="#" style="color:white;"> <i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        <a href="https://www.pinterest.com/BabyIslay/" style="color:white;"> <i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
                 </div>
             </div>
