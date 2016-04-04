@@ -83,6 +83,18 @@
 
 <body id="page-top">
 
+    <!-- google analytics -->
+    <?php include_once("php/analyticstracking.php") ?>
+    <!-- Google Tag Manager -->
+    
+    <noscript>
+    	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ND2TLM');
+    </script>
+    <!-- End Google Tag Manager -->
+
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -127,7 +139,7 @@
                 <h1>Giggles N Shit</h1>
                 <hr>
                 <p>It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man.</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Introduction</a>
+                <a href="https://www.instagram.com/gigglesnshitblog/" class="btn btn-primary btn-xl page-scroll">#gigglesnshitblog</a>
             </div>
         </div>
     </header>
@@ -157,6 +169,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
+                
+                    <!-- google adsense ad -->
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- Google Ad -->
+                    <ins class="adsbygoogle"
+                        style="display:block"
+                        data-ad-client="ca-pub-8526023922334594"
+                        data-ad-slot="7357456062"
+                        data-ad-format="auto"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script><br><br>
+                
                     <h2 class="section-heading">Is This Blog for You?</h2>
                     <h3>Here are some of the things you should expect</h3>
                     <hr class="primary">
@@ -335,16 +360,16 @@
                         <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                         <p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
                     </div>
-                    <div class="col-lg-3 text-center">
-                        <a href="https://www.facebook.com/evan.marshall.3762"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <div class="col-lg-3 col-xs-6 text-center">
+                        <a href="https://www.facebook.com/gigglesnshitblog/"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    <div class="col-lg-3 text-center">
-                        <a href="https://www.instagram.com/instagingagram/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <div class="col-lg-3 col-xs-6 text-center">
+                        <a href="https://www.instagram.com/gigglesnshitblog/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 col-xs-6 text-center">
                         <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 col-xs-6 text-center">
                         <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
         		</div>
@@ -355,13 +380,11 @@
     <section id="admin" class="bg-dark">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <p>To login click <a href="#">HERE</a></p><br>
-                    <p>To update profile click <a href="#">HERE</a></p><br>
-                    <p>To update password click <a href="php/password.php">HERE</a></p><br>
+                <div class="col-lg-4 col-xs-4">
+                    <p>To update password click <a href="php/password.php">HERE</a></p>
              	</div>
             
-            	<div class="text-center col-lg-4">
+            	<div class="text-center col-lg-4 col-xs-4">
             		<!-- Start of StatCounter Code for Dreamweaver -->
 					<script type="text/javascript">
 						var sc_project=10886934; 
@@ -381,11 +404,17 @@
                 	<!-- End of StatCounter Code for Dreamweaver -->
     				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
             	</div>
-                <div class="text-center col-lg-4">
+                <div class="text-center col-lg-4 col-xs-4">
                     <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
         		</div>
          	</div>
     	</div>
+        <div class="embed-responsive embed-responsive-16by9" id="amazon">
+     		<iframe class="embed-responsive-item" src="http://astore.amazon.ca/ginshbl-20" frameborder="0" scrolling="yes"></iframe>
+      	</div>
+        <div id="amazon-link" class="text-center text-capitalize">
+        	<h2><a href="http://astore.amazon.ca/ginshbl-20">Giggles N Shit Must Haves</a></h2>
+        </div>
     </section>
 
 <!-- MINIFIED BOOTSTRAP JQUERY ====================================================================================================================================--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>

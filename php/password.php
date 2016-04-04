@@ -85,12 +85,12 @@
 
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
-       		<a class="navbar-brand page-scroll" href="../index.php">Giggles N Shit Blog</a>
+       		<a style="color:white;" class="navbar-brand page-scroll" href="../index.php">Giggles N Shit Blog</a>
         </div>
         <!-- /.container-fluid -->
     </nav>
     
-    <aside>
+    <aside class="bg-primary">
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>To Change Password Fill Out Form</h2>
@@ -102,7 +102,7 @@
                 
                 <br><br>
                 
-                <p style="color:black;">Click <a href='../index.php' style='color:#5763AC;'>HERE</a> to be redirected to the homepage.</p>
+                <p style="color:black;">Click <a href='../index.php' style='color:white;'>HERE</a> to be redirected to the homepage.</p>
 
 				<!-- Modal -->
 				<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -240,33 +240,71 @@
 
 	?>
 
-    <section id="contact" class="bg-primary">
+    <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Drop me a Line</h2>
-                    <hr class="light">
-                    <p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
-                </div>
-                <div class="col-lg-12 text-center">
-                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:evanmarshall1986@gmail.com" style="color:white;">EMAIL ME!</a></p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="col-lg-3 text-center">
-                        <a href="https://www.facebook.com/evan.marshall.3762" style="color:white;"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                 	<h2 class="section-heading">Drop me a Line</h2>
+                  	<hr class="primary">
+                  	<p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
+                    <div class="col-lg-12 text-center">
+                        <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                        <p><a href="mailto:evanmarshall1986@gmail.com" style="color:white;">EMAIL ME!</a></p>
                     </div>
-                    <div class="col-lg-3 text-center">
-                        <a href="https://www.instagram.com/instagingagram/" style="color:white;"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <div class="col-lg-3 col-xs-6 text-center">
+                        <a href="https://www.facebook.com/gigglesnshitblog/" style="color:white;"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 col-xs-6 text-center">
+                        <a href="https://www.instagram.com/gigglesnshitblog/" style="color:white;"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    </div>
+                    <div class="col-lg-3 col-xs-6 text-center">
                         <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav" style="color:white;"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    <div class="col-lg-3 text-center">
-                        <a href="https://www.pinterest.com/BabyIslay/" style="color:white;"> <i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <div class="col-lg-3 col-xs-6 text-center">
+                        <a href="https://www.pinterest.com/BabyIslay/" style="color:white;"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                </div>
-            </div>
+        		</div>
+     		</div>
+     	</div>
+ 	</section>
+            
+    <section id="admin" class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-xs-4">
+                    <p>To update password click <a href="php/password.php">HERE</a></p>
+             	</div>
+            
+            	<div class="text-center col-lg-4 col-xs-4">
+            		<!-- Start of StatCounter Code for Dreamweaver -->
+					<script type="text/javascript">
+						var sc_project=10886934; 
+						var sc_invisible=0; 
+						var sc_security="c23d5ac3"; 
+						var scJsHost = (("https:" == document.location.protocol) ?
+						"https://secure." : "http://www.");
+						document.write("<sc"+"ript type='text/javascript' src='" +scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
+                	</script>
+                	<noscript>
+                		<div class="statcounter">
+                    		<a title="shopify stats"href="http://statcounter.com/shopify/" target="_blank">
+                        		<img class="statcounter"src="http://c.statcounter.com/10886934/0/c23d5ac3/0/" alt="shopify stats">
+                     		</a>
+                		</div>
+             		</noscript>
+                	<!-- End of StatCounter Code for Dreamweaver -->
+    				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
+            	</div>
+                <div class="text-center col-lg-4 col-xs-4">
+                    <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
+        		</div>
+         	</div>
+    	</div>
+        <div class="embed-responsive embed-responsive-16by9" id="amazon">
+     		<iframe class="embed-responsive-item" src="http://astore.amazon.ca/ginshbl-20" frameborder="0" scrolling="yes"></iframe>
+      	</div>
+        <div id="amazon-link" class="text-center text-capitalize">
+        	<h2><a href="http://astore.amazon.ca/ginshbl-20">Giggles N Shit Must Haves</a></h2>
         </div>
     </section>
 
