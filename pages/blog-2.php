@@ -11,7 +11,9 @@
     <meta name="description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-mant.">
     <meta name="keywords" content="blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
     <meta name="author" content="Evan Marshall">
-    <link rel="icon" href="#">
+
+	<!-- Facebook Comment Moderator ID -->
+    <meta property="fb:app_id" content="970981369664540" />
 
     <title>Giggles N Shit Blog</title>
     
@@ -86,6 +88,16 @@
 	<!-- google analytics -->
     <?php include_once("../php/analyticstracking.php") ?>
     
+    <!-- Facebook SDK -->
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=970981369664540";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
     <!-- Google Tag Manager -->
     <noscript>
     	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -108,15 +120,104 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-            	<?php
-					include("../php/comment.php");
-				?>
                 <h1>Giggles N Shit</h1>
                 <hr>
                 <a href="https://www.instagram.com/gigglesnshitblog/" class="btn btn-primary btn-xl page-scroll">#gigglesnshitblog</a>
             </div>
         </div>
     </header>
+    
+    <section class="bg-dark">
+    	<div class="container-fluid text-center">
+        	<script>
+				// This is called with the results from from FB.getLoginStatus().
+				function statusChangeCallback(response) {
+					console.log('statusChangeCallback');
+					console.log(response);
+					// The response object is returned with a status field that lets the
+					// app know the current login status of the person.
+					// Full docs on the response object can be found in the documentation
+					// for FB.getLoginStatus().
+						if (response.status === 'connected') {
+							// Logged into your app and Facebook.
+							testAPI();
+						} else if (response.status === 'not_authorized') {
+							// The person is logged into Facebook, but not your app.
+							document.getElementById('status').innerHTML = 'Please log ' +
+							'into this app.';
+				} else {
+					// The person is not logged into Facebook, so we're not sure if
+					// they are logged into this app or not.
+					document.getElementById('status').innerHTML = 'Please log ' +
+					'into Facebook.';
+					}
+  				}
+
+				// This function is called when someone finishes with the Login
+				// Button.  See the onlogin handler attached to it in the sample
+				// code below.
+				function checkLoginState() {
+					FB.getLoginStatus(function(response) {
+						statusChangeCallback(response);
+					});
+				}
+
+				window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '970981369664540',
+					cookie     : true,  // enable cookies to allow the server to access 
+										// the session
+					xfbml      : true,  // parse social plugins on this page
+					version    : 'v2.5' // use graph api version 2.5
+				});
+
+				// Now that we've initialized the JavaScript SDK, we call 
+				// FB.getLoginStatus().  This function gets the state of the
+				// person visiting this page and can return one of three states to
+				// the callback you provide.  They can be:
+				//
+				// 1. Logged into your app ('connected')
+				// 2. Logged into Facebook, but not your app ('not_authorized')
+				// 3. Not logged into Facebook and can't tell if they are logged into
+				//    your app or not.
+				//
+				// These three cases are handled in the callback function.
+
+				FB.getLoginStatus(function(response) {
+					statusChangeCallback(response);
+				});
+				
+				};
+
+				// Load the SDK asynchronously
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s); js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+
+				// Here we run a very simple test of the Graph API after login is
+				// successful.  See statusChangeCallback() for when this call is made.
+				function testAPI() {
+					console.log('Welcome!  Fetching your information.... ');
+					FB.api('/me', function(response) {
+						console.log('Successful login for: ' + response.name);
+						document.getElementById('status').innerHTML =
+						'Thanks for logging in, ' + response.name + '!';
+					});
+				}
+			</script>
+
+			<!-- Facebook Login Button -->
+
+			<fb:login-button scope="public_profile,email" onlogin="checkLoginState();"></fb:login-button>
+
+			<div id="status"></div>
+
+		</div>
+	</section>
 
     <section class="bg-primary" id="about">
         <div class="container">
@@ -168,15 +269,13 @@
             </div>
         </div>
     </section>
-                
-    <?php
-		include("../php/comment-form.php");
-	?>
     
-    <?php
-		include("../php/comment-display.php");
-	?>
-
+    <section class="bg-dark">    
+        <div class="container-fluid">        
+            <div class="fb-comments" data-order-by="social" data-mobile="auto-detected" data-colorscheme="dark" data-href="http://www.gigglesnshit.com/pages/blog-2.php" data-width="100%" data-numposts="10"></div>
+        </div>
+    </section>
+    
     <section id="contact">
         <div class="container">
             <div class="row">
@@ -206,13 +305,16 @@
  	</section>
             
     <section id="admin" class="bg-dark">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-xs-4">
-                    <p>To update password click <a href="php/password.php">HERE</a></p>
-             	</div>
+        <div class="container-fluid">
+        	<div id="amazon-link" class="text-center text-capitalize">
+                <h2 style="padding-bottom:15px;"><a href="http://astore.amazon.ca/ginshbl-20">Giggles N Shit Must Haves</a></h2>
+                <div class="embed-responsive embed-responsive-16by9" id="amazon">
+                    <iframe class="embed-responsive-item" src="http://astore.amazon.ca/ginshbl-20" frameborder="0" scrolling="yes"></iframe>
+      			</div>
+            </div>
+            <div class="row" style="padding-top:15px;">
             
-            	<div class="text-center col-lg-4 col-xs-4">
+            	<div class="text-center col-lg-6 col-xs-6">
             		<!-- Start of StatCounter Code for Dreamweaver -->
 					<script type="text/javascript">
 						var sc_project=10886934; 
@@ -232,19 +334,12 @@
                 	<!-- End of StatCounter Code for Dreamweaver -->
     				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
             	</div>
-                <div class="text-center col-lg-4 col-xs-4">
+                <div class="text-center col-lg-6 col-xs-6">
                     <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
         		</div>
          	</div>
     	</div>
-        <div class="embed-responsive embed-responsive-16by9" id="amazon">
-     		<iframe class="embed-responsive-item" src="http://astore.amazon.ca/ginshbl-20" frameborder="0" scrolling="yes"></iframe>
-      	</div>
-        <div id="amazon-link" class="text-center text-capitalize">
-        	<h2><a href="http://astore.amazon.ca/ginshbl-20">Giggles N Shit Must Haves</a></h2>
-        </div>
-    </section>
-
+  	</section>
 
 <!-- MINIFIED BOOTSTRAP JQUERY ====================================================================================================================================--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
