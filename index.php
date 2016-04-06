@@ -100,6 +100,9 @@
     </script>
     <!-- End Google Tag Manager -->
     
+    <!-- Pinterest Plugin Script -->
+    <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+    
     <!-- Facebook SDK -->
 	<script>
 	  window.fbAsyncInit = function() {
@@ -442,49 +445,67 @@
         </div>
     </section>
     
-    <!-- <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-facebook-official wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Let's Get Social</h3>
-                        <div class="fb-page" data-href="https://www.facebook.com/gigglesnshitblog/" data-tabs="timeline" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gigglesnshitblog/"><a href="https://www.facebook.com/gigglesnshitblog/">Giggles N Shit Blog</a></blockquote></div></div>
+    <div class="container-fluid bg-dark text-center" style="padding-top:20px;" id="contact">
+      	<h2 class="section-heading">Drop me a Line</h2>
+      	<hr class="primary">
+      	<p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
+      	<i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+      	<p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
+ 	</div>
+    
+<section id="social">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Let's Get Social!</h2>
+                <h3>Follow, add, or like on my social media accounts</h3>
+                <hr class="primary">
+            </div>
+            
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <a href="https://www.facebook.com/gigglesnshitblog/"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <h3>Facebook</h3>
+                    <div class="fb-page" data-href="https://www.facebook.com/gigglesnshitblog/" data-tabs="timeline" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gigglesnshitblog/"><a href="https://www.facebook.com/gigglesnshitblog/">Giggles N Shit Blog</a></blockquote></div>
                     </div>
-                </div> -->
-
-    <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                 	<h2 class="section-heading">Drop me a Line</h2>
-                  	<hr class="primary">
-                  	<p>Feel free to contact me anytime, anyday via my personal email or social media accounts.</p>
-                    <div class="col-lg-12 text-center">
-                        <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                        <p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
-                    </div>
-                    <div class="col-lg-3 col-xs-6 text-center">
-                        <a href="https://www.facebook.com/gigglesnshitblog/"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    </div>
-                    <div class="col-lg-3 col-xs-6 text-center">
-                        <a href="https://www.instagram.com/gigglesnshitblog/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    </div>
-                    <div class="col-lg-3 col-xs-6 text-center">
-                        <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    </div>
-                    <div class="col-lg-3 col-xs-6 text-center">
-                        <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    </div>
+                </div>
+            </div>
+                        
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <a href="https://www.instagram.com/gigglesnshitblog/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <h3>Instagram</h3>
+                    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BDsirZTPSQA/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Hard as nails. Don&#39;t mess with me and my exersaucer! Follow this page on Facebook for more great pics! Share your own cute baby photos. Head on over to www.gigglesnshit.com to read about my story! #gigglesnshitblog #baby #babygirl #gdupfromthefeetup #gansta #exersaucer #family</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Evan Marshall (@gigglesnshitblog) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-04-02T11:20:02+00:00">Apr 2, 2016 at 4:20am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                </div>
+            </div>
                     
-                    <!-- facbook like and share -->
-                    <div class="col-lg-12 text-center" style="padding-top:20px;">
-                        <div class="fb-like" data-href="https://www.gigglesnshit.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-                        <div class="fb-follow" data-href="https://www.facebook.com/gigglesnshitblog/" data-layout="button_count" data-show-faces="true"></div>
-                        <div class="fb-send" data-href="https://www.gigglesnshit.com/"></div>
-                    </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <h3>Etsy</h3>
+                    <script type='text/javascript' src='https://www.etsy.com/assets/js/etsy_mini_shop.js'></script><script type='text/javascript'>new Etsy.Mini(11799585,'thumbnail',3,5,0,'https://www.etsy.com');</script>
+                </div>
+            </div>
                     
-        		</div>
-     		</div>
-     	</div>
- 	</section>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                    <h3>Pinterest</h3>
+                    <a data-pin-do="embedPin" href="https://www.pinterest.com/pin/438678819932889424/"></a>
+                </div>
+            </div><br><br>
+                    
+            <!-- facbook like and share -->
+            <div class="col-lg-12 text-center" style="padding-top:20px;">
+                <div class="fb-like" data-href="https://www.gigglesnshit.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-follow" data-href="https://www.facebook.com/gigglesnshitblog/" data-layout="button_count" data-show-faces="true"></div>
+                <div class="fb-send" data-href="https://www.gigglesnshit.com/"></div>
+            </div>
+            
+        </div>
+    </div>
+</section>                   
             
     <section id="admin" class="bg-dark">
         <div class="container-fluid">
