@@ -17,7 +17,6 @@
     <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
     <meta property="og:image" content="http://www.gigglesnshit.com/img/fam-jam.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
-    <meta property="og:site_name" content="Giggles N Shit Blog"/>
 
     <title>Giggles N Shit Blog</title>
     
@@ -314,13 +313,6 @@
         </div>
         <div class="container">
             <div class="row">
-            	<div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-facebook-official wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Let's Get Social</h3>
-                        <div class="fb-page" data-href="https://www.facebook.com/gigglesnshitblog/" data-tabs="timeline" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gigglesnshitblog/"><a href="https://www.facebook.com/gigglesnshitblog/">Giggles N Shit Blog</a></blockquote></div></div>
-                    </div>
-                </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-commenting wow bounceIn text-primary"></i>
@@ -328,6 +320,13 @@
                         <p class="text-muted">I will have a comment section on each blog post. I encourage you to comment on any topic I cover and I will do my best to partake in the discussion as well. I will have links to my social networking accounts and I fully encourage you to post pictures of your little ones, tell your funny stories, and meet other parents in the struggle.</p>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                     <div class="service-box">
+                         <i class="fa fa-4x fa-hand-peace-o wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                         <h3>All in Good Fun</h3>
+                         <p class="text-muted">I know I said I am opinionated, I will be discussing hot-button topics, and I am open to debate. I fully expect that this means some people will get offended and pretty heated in the comment sections. Please keep in mind that the intentions of the blog are to provide a light-hearted view of the world we live in and is not intended to offend or say that any one else's opinions are wrong.</p>
+ 					</div>
+             	</div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-pencil wow bounceIn text-primary" data-wow-delay=".1s"></i>
@@ -442,6 +441,14 @@
             </div>
         </div>
     </section>
+    
+    <!-- <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-facebook-official wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Let's Get Social</h3>
+                        <div class="fb-page" data-href="https://www.facebook.com/gigglesnshitblog/" data-tabs="timeline" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gigglesnshitblog/"><a href="https://www.facebook.com/gigglesnshitblog/">Giggles N Shit Blog</a></blockquote></div></div>
+                    </div>
+                </div> -->
 
     <section id="contact">
         <div class="container">
