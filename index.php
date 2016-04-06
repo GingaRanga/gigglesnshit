@@ -288,8 +288,11 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                 
-                    <!-- google adsense ad -->
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- google adsense assigned to php variable -->
+                    <?php
+					
+					$googleadsense = 
+                    '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     <!-- Google Ad -->
                     <ins class="adsbygoogle"
                         style="display:block"
@@ -298,7 +301,10 @@
                         data-ad-format="auto"></ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script><br><br>
+                    </script>';
+					echo $googleadsense;
+					
+                    ?><br><br>
                 
                     <h2 class="section-heading">Is This Blog for You?</h2>
                     <h3>Here are some of the things you should expect</h3>
@@ -308,6 +314,13 @@
         </div>
         <div class="container">
             <div class="row">
+            	<div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-facebook-official wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Let's Get Social</h3>
+                        <div class="fb-page" data-href="https://www.facebook.com/gigglesnshitblog/" data-tabs="timeline" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gigglesnshitblog/"><a href="https://www.facebook.com/gigglesnshitblog/">Giggles N Shit Blog</a></blockquote></div></div>
+                    </div>
+                </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-commenting wow bounceIn text-primary"></i>
@@ -319,21 +332,14 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-pencil wow bounceIn text-primary" data-wow-delay=".1s"></i>
                         <h3>I Have Other Hobbies</h3>
-                        <p class="text-muted">I have been sketching my entire life and I even have some future posts in which you can see some of my recent work. I am a <strong>HUGE</strong> tech geek both personally and professionally. I also have been dabbing in the wonderful world of web development over the past year or so (I created this webpage!). Sooooo... expect some free gifts, if you are an active member of my blog, and check out my <a href="#">sales &amp; service</a> section. In this section you will find offers on webpage creations at a fabulous price, technological woes resolved by yours truly, as well as sketches up for sale!</p>
+                        <p class="text-muted">I have been sketching my entire life. I am a <strong>HUGE</strong> tech geek both personally and professionally. I also have been dabbing in the wonderful world of web development over the past year or so (I created this webpage!). Sooooo... check out my <a href="#">sales &amp; service</a> section. In this section I will provide web design/development services, technological troubleshooting/tutorials, as well as sketches up for sale!</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-gift wow bounceIn text-primary" data-wow-delay=".2s"></i>
-                        <h3>Sign Up!</h3>
-                        <p class="text-muted">I will be posting blogs quite frequently so make sure you <a href="php/signup-form.php">sign up</a> to my blog community so you don't miss any new blog posts, important communications, as well as special gifts just for you! Do not worry, I will never spam you, spammers are douches! Also keep in mind that my blog posts will be very dynamic. They will contain pictures and videos... I find plain text makes my head spin after a while so I want to spruce it up for ya!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-hand-peace-o wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>All in Good Fun</h3>
-                        <p class="text-muted">I know I said I am opinionated, I will be discussing hot-button topics, and I am open to debate. I fully expect that this means some people will get offended and pretty heated in the comment sections. Please keep in mind that the intentions of the blog are to provide a light-hearted view of the world we live in and is not intended to offend or say that any one else's opinions are wrong. There is enough bull we deal with out there on a day-to-day basis and I hope my blog can illicit a good chuckle out of you even if for a brief moment.</p>
+                        <i class="fa fa-4x fa-thumbs-up wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Follow & Like!</h3>
+                        <p class="text-muted">I will be posting blogs quite frequently so make sure you like the <strong>Giggles N Shit Blog</strong> page on <a href="https://www.facebook.com/gigglesnshitblog/">Facebook</a> and <a href="https://www.instagram.com/gigglesnshitblog/">Instagram</a> so that you don't miss any new blog posts, important communications, as well exclusive pictures/moments! Also keep in mind that my blog posts will be very dynamic. They will contain pictures and videos... I find plain text makes my head spin after a while so I want to spruce it up for ya!</p>
                     </div>
                 </div>
             </div>
@@ -374,15 +380,15 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/poo-chair.jpg" class="img-responsive" alt="">
+                    <a href="pages/blog-3.php?id=3" class="portfolio-box">
+                        <img src="img/portfolio/peanut.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    POST 3 - DATE
+                                    "Dr. Sloth..."
                                 </div>
                                 <div class="project-name">
-                                    Coming Soon!
+                                    April 5th, 2016
                                 </div>
                             </div>
                         </div>
@@ -463,13 +469,11 @@
                     
                     <!-- facbook like and share -->
                     <div class="col-lg-12 text-center" style="padding-top:20px;">
-                        <div
-                          class="fb-like"
-                          data-share="true"
-                          data-width="450"
-                          data-show-faces="true">
-                        </div>
+                        <div class="fb-like" data-href="https://www.gigglesnshit.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                        <div class="fb-follow" data-href="https://www.facebook.com/gigglesnshitblog/" data-layout="button_count" data-show-faces="true"></div>
+                        <div class="fb-send" data-href="https://www.gigglesnshit.com/"></div>
                     </div>
+                    
         		</div>
      		</div>
      	</div>

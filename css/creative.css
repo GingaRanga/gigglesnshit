@@ -510,28 +510,8 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
-/*
-#amazon iframe{
-	display:none;
-	padding:0;
-	margin:0;
-	}
-
-@media(min-width:768px) {
+@media(max-width:768px) {
 	#amazon {
-		display:block;
-	}
-}
-
-#amazon-link {
-	display:block;
-	}
-
-@media(min-width:768px) {
-	#amazon-link {
 		display:none;
-		padding:0;
-		margin:0;
 	}
 }
-*/

@@ -12,8 +12,14 @@
     <meta name="keywords" content="blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
     <meta name="author" content="Evan Marshall">
     
-    <!-- Facebook Comment Moderator ID -->
-    <meta property="fb:app_id" content="970981369664540" />
+    <!-- Facebook Graph Tags for Sharing Pages -->
+    <meta property="og:url" content="http://www.gigglesnshit.com/pages/blog-1.php" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Main Blog Page" />
+    <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
+    <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/announcement.jpg" />
+    <meta property="fb:app_id" content="970981369664540"/>
+    <meta property="og:site_name" content="Giggles N Shit Blog"/>
 
     <title>Giggles N Shit Blog</title>
     
@@ -224,8 +230,11 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                 
-                    <!-- google adsense ad -->
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- google adsense assigned to php variable -->
+                    <?php
+					
+					$googleadsense = 
+                    '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     <!-- Google Ad -->
                     <ins class="adsbygoogle"
                         style="display:block"
@@ -234,7 +243,10 @@
                         data-ad-format="auto"></ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script><br><br>
+                    </script>';
+					echo $googleadsense;
+					
+                    ?><br><br>
                 
                 	<h2>"Shit, I'm Pregnant..."</h2>
                     <h3 class="section-heading">March 20th 2016</h3>
@@ -304,6 +316,13 @@ You know what… screw searching for these things… it is 2016 and I am not a m
                     <div class="col-lg-3 col-xs-6 text-center">
                         <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
+                    
+                    <!-- facbook like and share -->
+                    <div class="col-lg-12 text-center" style="padding-top:20px;">
+                        <div class="fb-like" data-href="https://www.gigglesnshit.com/pages/blog-1.php" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                        <div class="fb-send" data-href="https://www.gigglesnshit.com/pages/blog-1.php"></div>
+                    </div>
+                    
         		</div>
      		</div>
      	</div>
