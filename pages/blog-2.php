@@ -332,28 +332,7 @@
       			</div>
             </div>
             <div class="row" style="padding-top:15px;">
-            
-            	<div class="text-center col-lg-6 col-xs-6">
-            		<!-- Start of StatCounter Code for Dreamweaver -->
-					<script type="text/javascript">
-						var sc_project=10886934; 
-						var sc_invisible=0; 
-						var sc_security="c23d5ac3"; 
-						var scJsHost = (("https:" == document.location.protocol) ?
-						"https://secure." : "http://www.");
-						document.write("<sc"+"ript type='text/javascript' src='" +scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
-                	</script>
-                	<noscript>
-                		<div class="statcounter">
-                    		<a title="shopify stats"href="http://statcounter.com/shopify/" target="_blank">
-                        		<img class="statcounter"src="http://c.statcounter.com/10886934/0/c23d5ac3/0/" alt="shopify stats">
-                     		</a>
-                		</div>
-             		</noscript>
-                	<!-- End of StatCounter Code for Dreamweaver -->
-    				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
-            	</div>
-                <div class="text-center col-lg-6 col-xs-6">
+                <div class="text-center col-lg-12 col-xs-12">
                     <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
         		</div>
          	</div>

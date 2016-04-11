@@ -360,7 +360,7 @@
                                     "Shit, I'm Pregnant..."
                                 </div>
                                 <div class="project-name">
-                                    March 20th, 2016
+                                    March 20<sup>th</sup>, 2016
                                 </div>
                             </div>
                         </div>
@@ -375,7 +375,7 @@
                                  	"The Watermelon Incident..."
                                 </div>
                                 <div class="project-name">
-                                 	March 28th, 2016
+                                 	March 28<sup>th</sup>, 2016
                                 </div>
                             </div>
                         </div>
@@ -390,22 +390,22 @@
                                     "Dr. Sloth..."
                                 </div>
                                 <div class="project-name">
-                                    April 5th, 2016
+                                    April 5<sup>th</sup>, 2016
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/daddys-girl.jpg" class="img-responsive" alt="">
+                    <a href="pages/blog-4.php?id=4" class="portfolio-box">
+                        <img src="img/portfolio/the-bomb-1.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    POST 4 - DATE
+                                    "The Bomb Drop: Part I"
                                 </div>
                                 <div class="project-name">
-                                    Coming Soon!
+                                     April 11<sup>th</sup>, 2016
                                 </div>
                             </div>
                         </div>
@@ -516,28 +516,7 @@
       			</div>
             </div>
             <div class="row" style="padding-top:15px;">
-            
-            	<div class="text-center col-lg-6 col-xs-6">
-            		<!-- Start of StatCounter Code for Dreamweaver -->
-					<script type="text/javascript">
-						var sc_project=10886934; 
-						var sc_invisible=0; 
-						var sc_security="c23d5ac3"; 
-						var scJsHost = (("https:" == document.location.protocol) ?
-						"https://secure." : "http://www.");
-						document.write("<sc"+"ript type='text/javascript' src='" +scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
-                	</script>
-                	<noscript>
-                		<div class="statcounter">
-                    		<a title="shopify stats"href="http://statcounter.com/shopify/" target="_blank">
-                        		<img class="statcounter"src="http://c.statcounter.com/10886934/0/c23d5ac3/0/" alt="shopify stats">
-                     		</a>
-                		</div>
-             		</noscript>
-                	<!-- End of StatCounter Code for Dreamweaver -->
-    				<a href="http://statcounter.com/p10886934/?guest=1">View My Stats</a>
-            	</div>
-                <div class="text-center col-lg-6 col-xs-6">
+                <div class="text-center col-lg-12 col-xs-12">
                     <p>&copy; <a href="http://www.gigglesnshit.com">Giggles N Shit Blog</a> - 2016</p>
         		</div>
          	</div>
