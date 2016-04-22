@@ -352,15 +352,12 @@ You know what… screw searching for these things… it is 2016 and I am not a m
 
 <!--  PLUGIN JAVASCRIPT ========================================================================================================================================== -->
     <script src="../js/jquery.easing.min.js"></script>
-    <script src="../js/build/production.min.js"></script>
-    <!--
     <script src="../js/jquery.fittext.js"></script>
-    -->
     <script src="../js/wow.min.js"></script>
 
 <!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -
+-->    
     <script src="../js/creative.js"></script>
--->
 
 </body>
 

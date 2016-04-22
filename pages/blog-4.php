@@ -346,15 +346,12 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
 <!--  PLUGIN JAVASCRIPT ========================================================================================================================================== -->
     <script src="../js/jquery.easing.min.js"></script>
-    <script src="../js/build/production.min.js"></script>
-    <!--
     <script src="../js/jquery.fittext.js"></script>
-    -->
     <script src="../js/wow.min.js"></script>
 
 <!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -
-    <script src="../js/creative.js"></script>
 -->
+    <script src="../js/creative.js"></script>
 
 </body>
 
