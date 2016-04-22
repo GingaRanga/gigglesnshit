@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="NOODP">
     <meta name="description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-mant.">
-    <meta name="keywords" content="blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
+    <meta name="keywords" content="baby products, baby, baby's, baby wear, baby clothing, parent portal, parents, infant, newly baby, newborn baby, liver, disease, liver disease, biliary atresia, giggles, shit, giggles n shit, blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
     <meta name="author" content="Evan Marshall">
     
     <!-- Facebook Graph Tags for Sharing Pages -->
     <meta property="og:url" content="http://www.gigglesnshit.com/pages/blog-1.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Main Blog Page" />
+    <meta property="og:title" content="Shit, I'm Pregnant" />
     <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/announcement.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
@@ -105,19 +105,20 @@
     }(document, 'script', 'facebook-jssdk'));</script>
     
     <!-- Google Tag Manager -->
-    <noscript>
-    	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <script>
-		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ND2TLM');
-    </script>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-ND2TLM');</script>
     <!-- End Google Tag Manager -->
 
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <a class="navbar-brand page-scroll" href="../index.php">Giggles N Shit Blog</a>
+                <a class="navbar-brand page-scroll" href="../index.php" style="border:1px solid white;">Giggles N Shit Blog</a>
             </div>
         </div>
         <!-- /.container-fluid -->

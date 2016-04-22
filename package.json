@@ -1,0 +1,7 @@
+{
+  "name": "my-blog",
+  "version": "5.11.0",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="NOODP">
     <meta name="description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-mant.">
-    <meta name="keywords" content="giggles, shit, giggles n shit, blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
+    <meta name="keywords" content="baby products, baby, baby's, baby wear, baby clothing, parent portal, parents, infant, newly baby, newborn baby, liver, disease, liver disease, biliary atresia, giggles, shit, giggles n shit, blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
     <meta name="author" content="Evan Marshall">
 
 	<!-- Facebook Graph Tags for Sharing Pages -->
@@ -92,12 +92,13 @@
     <?php include_once("php/analyticstracking.php") ?>
     
     <!-- Google Tag Manager -->
-    <noscript>
-    	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <script>
-		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ND2TLM');
-    </script>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2TLM"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-ND2TLM');</script>
     <!-- End Google Tag Manager -->
     
     <!-- Pinterest Plugin Script -->
@@ -132,7 +133,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Giggles N Shit Blog</a>
+                <a class="navbar-brand page-scroll" href="#page-top" style="border:1px solid white;">Giggles N Shit Blog</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -279,7 +280,9 @@
                     <p class="text-faded">I'm blunt, extremely sarcastic, ridiculous, and I have very strong opinions on how you should raise a child, even though I've only been a parent for 4 months (I have strong opinions on a lot of things... I'm an ass...). I encourage open debates, as long as you can handle my rebuttals. I am also not afraid to test my theories over the next 18 years as my sweet, beautiful, heart-pinching baby girl grows up in some of the most challenging times. I'm sure I'll even be wrong sometimes, however unlikely that might be.</p>
                     
                     <p class="text-faded">I hope you will enjoy my journey of parenthood and husband-hood &copy;. I know I'm looking forward to it!!</p>
-                    <a href="#" class="btn btn-default btn-xl">About the Author</a>
+                    <!--
+                        <a href="#" class="btn btn-default btn-xl">About the Author</a>
+                    -->
                 </div>
             </div>
         </div>
@@ -351,6 +354,9 @@
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter">
+            
+          		<h2 class="text-center bg-dark" style="margin:0; padding:15px 0;">Click the images below to access the posts</h2>
+                
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-1.php?id=1" class="portfolio-box">
                         <img src="img/portfolio/announcement.jpg" class="img-responsive" alt="">
@@ -412,15 +418,15 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/football.jpg" class="img-responsive" alt="">
+                    <a href="pages/blog-5.php?id=5" class="portfolio-box">
+                        <img src="img/portfolio/hospital.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    POST 5 - DATE
+                                    "The Bomb Drop: Part II"
                                 </div>
                                 <div class="project-name">
-                                    Coming Soon!
+                                    April 19<sup>th</sup>, 2016
                                 </div>
                             </div>
                         </div>
@@ -428,7 +434,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/playpin.jpg" class="img-responsive" alt="">
+                        <img src="http://placekitten.com/455/455" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">

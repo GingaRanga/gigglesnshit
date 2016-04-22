@@ -19,10 +19,12 @@ body {
     font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
 
+img, embed, object, video{
+	max-width:100%;
+}
+
 hr {
-    max-width: 50px;
     border-color:#5763AC;
-    border-width: 3px;
 }
 
 hr.light {
