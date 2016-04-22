@@ -75,7 +75,7 @@
     <link rel="stylesheet" href="css/animate.min.css" type="text/css">
 
 <!-- CUSTOM CSS ================================================================================================================================================== -->
-    <link rel="stylesheet" href="css/creative.css" type="text/css">
+    <link rel="stylesheet" href="css/creative.min.css" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -374,7 +374,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-2.php?id=2" class="portfolio-box">
-                        <img src="img/portfolio/watermelon.JPG" class="img-responsive" alt="">
+                        <img src="img/build/portfolio/watermelon.JPG" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -534,13 +534,13 @@
 <!--  MINIFIED BOOTSTRAP JAVASCRIPT ============================================================================================================================== --> 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
 
 <!--  PLUGIN JAVASCRIPT ========================================================================================================================================== -->
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/jquery.fittext.js"></script>
+    <script src="js/build/jquery.easing.min.min.js"></script>
+    <script src="js/build/jquery.fittext.min.js"></script>
     <script src="js/wow.min.js"></script>
 
 <!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -
 -->
-    <script src="js/creative.js"></script>
+    <script src="js/build/creative.min.js"></script>
 
 </body>
 
