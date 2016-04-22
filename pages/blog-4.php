@@ -17,7 +17,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="The Bomb Drop: Part I" />
     <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
-    <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg" />
+    <meta property="og:image" content="http://www.gigglesnshit.com/img/build/portfolio/the-bomb-1.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
 
@@ -51,27 +51,27 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-3dkvEK0WLHRJ7/Csr0BZjAWxERc5WH7bdeUya2aXxdU= sha512-+L4yy6FRcDGbXJ9mPG8MT/3UCDzwR9gPeyFNMCtInsol++5m3bk2bXWKdZjvybmohrAsn3Ua5x8gfLnbE1YkOg==" crossorigin="anonymous">
     
 <!-- FAVICONS ==================================================================================================================================================== -->    
- 	<link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="../img/favicon/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="../img/favicon/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="../img/favicon/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="../img/favicon/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="../img/favicon/manifest.json">
-    <link rel="mask-icon" href="../img/favicon/safari-pinned-tab.svg" color="#5763ac">
-    <link rel="shortcut icon" href="../img/favicon/favicon.ico">
+ 	<link rel="apple-touch-icon" sizes="57x57" href="../img/build/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../img/build/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../img/build/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../img/build/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../img/build/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../img/build/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../img/build/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../img/build/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/build/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../img/build/favicon/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="../img/build/favicon/manifest.json">
+    <link rel="mask-icon" href="../img/build/favicon/safari-pinned-tab.svg" color="#5763ac">
+    <link rel="shortcut icon" href="../img/build/favicon/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="GigglesNShit">
     <meta name="application-name" content="GigglesNShit">
     <meta name="msapplication-TileColor" content="#5763ac">
-    <meta name="msapplication-TileImage" content="../img/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="../img/favicon/browserconfig.xml">
+    <meta name="msapplication-TileImage" content="../img/build/favicon/mstile-144x144.png">
+    <meta name="msapplication-config" content="../img/build/favicon/browserconfig.xml">
     <meta name="theme-color" content="#5763ac">
 
 <!-- PLUGIN CSS ================================================================================================================================================== -->
@@ -264,7 +264,7 @@
                         <p class="text-faded">We learned that at a few days old Isla was definitely a princess. When putting her down for a nap she needed the following: tightly wrapped swaddle blanket (see my "must haves” section below, they are freakin' awesome and fairly priced), a perfect temperature of 26 to 28 degrees Celsius, near pitch black room, and constant white noise (also in my “must haves” section). If any of those variables are missing you can pretty much kiss your sleep goodbye. Katie's genes definitely kicked the shit out of my rare Ginger Genes. Luckily Isla got her mothers deep brown eyes, darker complexion, brown hair (what little of it she has), and a mini-me face of her mother. Come to think of it, if it wasn't for how long that baby was, I would have bene looking for a paternity test. Either Katie hooked up with the Purolator man or Isla just asexually budded off of her mother.  </p>
                         
                         <div class="thumbnail">
-      						<img src="../img/portfolio/side-by-side.jpg" alt="comparison">
+      						<img src="../img/build/portfolio/side-by-side.jpg" alt="comparison">
       						<div class="caption">
                                 <h3>Who is Who?</h3>
                                 <p>Top-Left: Katie at 1 year, Top-Right: Isla at 3 months, Bottom-Left: Me at 8 months, Bottom-Right: A Face Swap of Isla and I.</p>
@@ -346,11 +346,15 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
 <!--  PLUGIN JAVASCRIPT ========================================================================================================================================== -->
     <script src="../js/jquery.easing.min.js"></script>
+    <script src="../js/build/production.min.js"></script>
+    <!--
     <script src="../js/jquery.fittext.js"></script>
+    -->
     <script src="../js/wow.min.js"></script>
 
-<!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -->
+<!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -
     <script src="../js/creative.js"></script>
+-->
 
 </body>
 
