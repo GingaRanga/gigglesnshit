@@ -6,28 +6,6 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
 		
-		imagemin: { 
-		
-			static: {                          // Target
-				options: {                       // Target options
-					optimizationLevel: 7,
-				},
-				files: {                         // Dictionary of files
-					'img/build/portfolio/watermelon.jpg': 'img/portfolio/watermelon.jpg', // 'destination': 'source'
-				}
-			},
-			
-			//dynamic: {                         // Another target
-				//files: [{
-					//expand: true,                  // Enable dynamic expansion
-					//cwd: 'img/',                   // Src matches are relative to this path
-					//src: ['**/*.{png,jpg,gif}'],   // Actual patterns to match
-					//dest: 'img/build/'                  // Destination path prefix
-				//}]
-			//}
-			
-		}
-		
 		/*
 		responsive_images: {
 			myTask: {
@@ -59,14 +37,12 @@ module.exports = function(grunt) {
 		},
 		*/
 		
-		/*
 		cssmin: {
 			build: {
-				src: ['css/creative.css'],
-				dest: 'css/creative.min.css',
+				src: ['css/media-max-768.css'],
+				dest: 'css/media.maximum.768.min.css',
 			}
 		},
-		*/
 		
 		//just replace src file with the .js file you want to minify and select destination file and path
 		/*uglify: {
@@ -81,19 +57,17 @@ module.exports = function(grunt) {
 
     // 3. Where we tell Grunt we plan to use this plug-in.
     //grunt.loadNpmTasks('grunt-contrib-uglify');
-	//grunt.loadNpmTasks('grunt-contrib-cssmin');
+	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	//grunt.loadNpmTasks('grunt-contrib-htmlmin');
 	//grunt.loadNpmTasks('grunt-responsive-images');
-	grunt.loadNpmTasks('grunt-contrib-imagemin');
 
 
 
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
     //grunt.registerTask('default', ['uglify']);
-	//grunt.registerTask('default', ['cssmin']);
+	grunt.registerTask('default', ['cssmin']);
 	//grunt.registerTask('default', ['htmlmin']);
 	//grunt.registerTask('default', ['responsive_images']);
-	grunt.registerTask('default', ['imagemin']);
 
 };

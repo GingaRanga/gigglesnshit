@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media(min-width:992px) {
+    .service-box {
+        margin: 20px auto 0;
+    }
+}
+

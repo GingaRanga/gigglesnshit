@@ -76,6 +76,10 @@
 
 <!-- CUSTOM CSS ================================================================================================================================================== -->
     <link rel="stylesheet" href="css/creative.min.css" type="text/css">
+    <link href="css/media.maximum.768.min.css" rel="stylesheet" media="screen and (max-width:768px)">
+    <link href="css/media.minimum.768.min.css" rel="stylesheet" media="screen and (min-width:768px)">
+    <link href="css/media.minimum.992.min.css" rel="stylesheet" media="screen and (min-width:992px)">
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
