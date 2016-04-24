@@ -39,8 +39,8 @@ module.exports = function(grunt) {
 		
 		cssmin: {
 			build: {
-				src: ['css/media-max-768.css'],
-				dest: 'css/media.maximum.768.min.css',
+				src: ['css/creative.css'],
+				dest: 'css/creative.min.css',
 			}
 		},
 		
