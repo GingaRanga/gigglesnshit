@@ -133,6 +133,28 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
+    
+    <nav id="social" class="navbar navbar-default navbar-fixed-bottom">
+    	<div class="container-fluid">
+        	<div class="navbar-header">
+                
+                <!-- facbook like and share -->
+                <div class="fb-like" data-href="http://www.gigglesnshit.com/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+                
+                <div class="fb-share-button" data-href="http://www.gigglesnshit.com/" data-layout="button" data-mobile-iframe="true"></div>
+                
+                <div class="fb-send" data-href="http://www.gigglesnshit.com/"></div>
+                
+                <!-- Twitter -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.gigglesnshit.com" data-text="Check out Giggles N Shit Blog!" data-hashtags="gigglesnshitblog">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                
+                <!-- Google Plus -->
+                <div class="g-plus" data-action="share" data-annotation="none" data-href="http://www.gigglesnshit.com/"></div>
+                
+      		</div>
+        </div>
+    </nav>
 
     <header>
         <div class="header-content">
@@ -477,19 +499,6 @@
                     <a data-pin-do="embedPin" href="https://www.pinterest.com/pin/438678819932889424/"></a>
                 </div>
             </div><br><br>
-                    
-            <!-- social like and share -->
-            
-            <!-- Facebook -->
-            <div class="col-lg-12 text-center" style="padding-top:20px;">
-                <div class="fb-like" data-href="https://www.gigglesnshit.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-                <div class="fb-follow" data-href="https://www.facebook.com/gigglesnshitblog/" data-layout="button_count" data-show-faces="true"></div>
-                
-                <!-- Twitter -->
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.gigglesnshit.com" data-text="Check out this site: Giggles N Shit Blog!" data-hashtags="gigglesnshitblog">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-            </div>
-            
         </div>
     </div>
 </section>                   
@@ -523,20 +532,8 @@
 -->
     <script src="js/build/creative.min.js"></script>
     
-    <!-- Google Font JS -->
-    <script type="text/javascript">
-		  WebFontConfig = {
-			google: { families: [ 'Amethysta::latin' ] }
-		  };
-		  (function() {
-			var wf = document.createElement('script');
-			wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-			wf.type = 'text/javascript';
-			wf.async = 'true';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(wf, s);
-		  })(); 
-  	</script>
+    <!-- Google plus button -->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
 
 </body>
 

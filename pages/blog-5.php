@@ -42,43 +42,18 @@
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
-
-<!-- CUSTOM FONTS ================================================================================================================================================ -->
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
     
 <!-- FONT-AWESOME ================================================================================================================================================ -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-3dkvEK0WLHRJ7/Csr0BZjAWxERc5WH7bdeUya2aXxdU= sha512-+L4yy6FRcDGbXJ9mPG8MT/3UCDzwR9gPeyFNMCtInsol++5m3bk2bXWKdZjvybmohrAsn3Ua5x8gfLnbE1YkOg==" crossorigin="anonymous">
-    
-<!-- FAVICONS ==================================================================================================================================================== -->    
- 	<link rel="apple-touch-icon" sizes="57x57" href="../img/build/favicon/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="../img/build/favicon/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="../img/build/favicon/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="../img/build/favicon/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="../img/build/favicon/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="../img/build/favicon/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="../img/build/favicon/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="../img/build/favicon/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../img/build/favicon/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="../img/build/favicon/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="../img/build/favicon/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="../img/build/favicon/manifest.json">
-    <link rel="mask-icon" href="../img/build/favicon/safari-pinned-tab.svg" color="#5763ac">
-    <link rel="shortcut icon" href="../img/build/favicon/favicon.ico">
-    <meta name="apple-mobile-web-app-title" content="GigglesNShit">
-    <meta name="application-name" content="GigglesNShit">
-    <meta name="msapplication-TileColor" content="#5763ac">
-    <meta name="msapplication-TileImage" content="../img/build/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="../img/build/favicon/browserconfig.xml">
-    <meta name="theme-color" content="#5763ac">
 
 <!-- PLUGIN CSS ================================================================================================================================================== -->
     <link rel="stylesheet" href="../css/animate.min.css" type="text/css">
 
 <!-- CUSTOM CSS ================================================================================================================================================== -->
-    <link rel="stylesheet" href="../css/creative.css" type="text/css">
+    <link rel="stylesheet" href="../css/creative.min.css" type="text/css">
+    <link href="../css/media.maximum.768.min.css" rel="stylesheet" media="screen and (max-width:768px)">
+    <link href="../css/media.minimum.768.min.css" rel="stylesheet" media="screen and (min-width:768px)">
+    <link href="../css/media.minimum.992.min.css" rel="stylesheet" media="screen and (min-width:992px)">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -122,6 +97,28 @@
             </div>
         </div>
         <!-- /.container-fluid -->
+    </nav>
+    
+    <nav id="social" class="navbar navbar-default navbar-fixed-bottom">
+    	<div class="container-fluid">
+        	<div class="navbar-header">
+                
+                <!-- facbook like and share -->
+                <div class="fb-like" data-href="http://www.gigglesnshit.com/pages/blog-5.php" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+                
+                <div class="fb-share-button" data-href="http://www.gigglesnshit.com/pages/blog-5.php" data-layout="button" data-mobile-iframe="true"></div>
+                
+                <div class="fb-send" data-href="http://www.gigglesnshit.com/pages/blog-5.php"></div>
+                
+                <!-- Twitter -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.gigglesnshit.com/pages/blog-5.php" data-text="Check out Giggles N Shit Blog!" data-hashtags="gigglesnshitblog">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                
+                <!-- Google Plus -->
+                <div class="g-plus" data-action="share" data-annotation="none" data-href="http://www.gigglesnshit.com/pages/blog-5.php"></div>
+                
+			</div>
+        </div>
     </nav>
 
     <header>
@@ -332,7 +329,7 @@
                     
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
-                        <img class="img-responsive" alt="post 2 image" src="../img/portfolio/watermelon.JPG" data-toggle="modal" data-target="#myModal-2">
+                        <img class="img-responsive" alt="post 2 image" src="../img/build/portfolio/watermelon.jpg" data-toggle="modal" data-target="#myModal-2">
                         <div class="caption">
                             <h3>"The Watermelon Incident..."</h3>
                             <hr>
@@ -532,13 +529,6 @@
                     <div class="col-lg-3 col-xs-6 text-center">
                         <a href="https://www.pinterest.com/BabyIslay/"><i class="fa fa-pinterest fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     </div>
-                    
-                    <!-- facbook like and share -->
-                    <div class="col-lg-12 text-center" style="padding-top:20px;">
-                        <div class="fb-like" data-href="https://www.gigglesnshit.com/pages/blog-5.php" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-                        <div class="fb-send" data-href="https://www.gigglesnshit.com/pages/blog-5.php"></div>
-                    </div>
-                    
         		</div>
      		</div>
      	</div>
@@ -566,12 +556,16 @@
 
 <!--  PLUGIN JAVASCRIPT ========================================================================================================================================== -->
     <script src="../js/jquery.easing.min.js"></script>
-    <script src="../js/jquery.fittext.js"></script>
+    <script src="../js/build/jquery.fittext.min.js"></script>
     <script src="../js/wow.min.js"></script>
 
 <!--  CUSTOM THEME JAVASCRIPT ==================================================================================================================================== -
 -->
-    <script src="../js/creative.js"></script>
+    <script src="../js/build/creative.min.js"></script>
+    
+    <!-- Place this tag in your head or just before your close body tag. -->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+
 
 </body>
 
