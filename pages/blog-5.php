@@ -17,7 +17,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="The Bomb Drop: Part II" />
     <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
-    <meta property="og:image" content="http://www.gigglesnshit.com/img/build/portfolio/hospital.jpg" />
+    <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/hospital.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
 
@@ -99,25 +99,23 @@
         <!-- /.container-fluid -->
     </nav>
     
-    <nav id="social" class="navbar navbar-default navbar-fixed-bottom">
+    <!-- SOCIAL SHARE BUTTONS -->
+    <nav class="social text-center navbar navbar-default navbar-fixed-bottom">
     	<div class="container-fluid">
-        	<div class="navbar-header">
-                
-                <!-- facbook like and share -->
-                <div class="fb-like" data-href="http://www.gigglesnshit.com/pages/blog-5.php" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-                
-                <div class="fb-share-button" data-href="http://www.gigglesnshit.com/pages/blog-5.php" data-layout="button" data-mobile-iframe="true"></div>
-                
-                <div class="fb-send" data-href="http://www.gigglesnshit.com/pages/blog-5.php"></div>
-                
-                <!-- Twitter -->
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.gigglesnshit.com/pages/blog-5.php" data-text="Check out Giggles N Shit Blog!" data-hashtags="gigglesnshitblog">Tweet</a>
-				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                
-                <!-- Google Plus -->
-                <div class="g-plus" data-action="share" data-annotation="none" data-href="http://www.gigglesnshit.com/pages/blog-5.php"></div>
-                
-			</div>
+        	<ul class="social-list">
+            	<!-- FACEBOOK -->
+            	<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-5.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
+                <!-- REDDIT -->
+            	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-5.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+                <!-- TWITTER -->
+                <li><a href="http://twitter.com/home?status=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog%20http://www.gigglesnshit.com/pages/blog-5.php" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
+                <!-- GOOGLE PLUS -->
+                <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-5.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
+                <!-- PINTEREST -->
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-5.php&media=http://www.gigglesnshit.com/img/portfolio/hospital.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-5.php&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+      		</ul>
         </div>
     </nav>
 
@@ -252,7 +250,7 @@
                     
                     <hr class="light">
                     
-                    <img class="img-responsive" src="../img/build/portfolio/hospital.jpg" alt="blog post banner">
+                    <img class="img-responsive" src="../img/portfolio/hospital.jpg" alt="blog post banner">
                     
                     <hr class="light">
                     
@@ -274,7 +272,7 @@
                     
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
-                        <img class="img-responsive" alt="post 1 image" src="../img/build/portfolio/announcement.jpg" data-toggle="modal" data-target="#myModal-1">
+                        <img class="img-responsive" alt="post 1 image" src="../img/portfolio/announcement.jpg" data-toggle="modal" data-target="#myModal-1">
                         <div class="caption">
                             <h3>"Shit, I'm Pregnant..."</h3>
                             <hr>
@@ -329,7 +327,7 @@
                     
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
-                        <img class="img-responsive" alt="post 2 image" src="../img/build/portfolio/watermelon.jpg" data-toggle="modal" data-target="#myModal-2">
+                        <img class="img-responsive" alt="post 2 image" src="../img/portfolio/watermelon.jpg" data-toggle="modal" data-target="#myModal-2">
                         <div class="caption">
                             <h3>"The Watermelon Incident..."</h3>
                             <hr>
@@ -380,7 +378,7 @@
                     
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
-                        <img class="img-responsive" alt="post 3 image" src="../img/build/portfolio/peanut.jpg" data-toggle="modal" data-target="#myModal-3">
+                        <img class="img-responsive" alt="post 3 image" src="../img/portfolio/peanut.jpg" data-toggle="modal" data-target="#myModal-3">
                         <div class="caption">
                             <h3>"Dr. Sloth..."</h3>
                             <hr>
@@ -447,7 +445,7 @@
                     
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
-                        <img class="img-responsive" alt="post 4 image" src="../img/build/portfolio/the-bomb-1.jpg" data-toggle="modal" data-target="#myModal-4">
+                        <img class="img-responsive" alt="post 4 image" src="../img/portfolio/the-bomb-1.jpg" data-toggle="modal" data-target="#myModal-4">
                         <div class="caption">
                             <h3>"The Bomb Drop: Part I"</h3>
                             <hr>

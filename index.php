@@ -15,7 +15,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Main Blog Page" />
     <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
-    <meta property="og:image" content="http://www.gigglesnshit.com/img/build/fam-jam.jpg" />
+    <meta property="og:image" content="http://www.gigglesnshit.com/img/fam-jam.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
 
     <title>Giggles N Shit Blog</title>
@@ -134,25 +134,23 @@
         <!-- /.container-fluid -->
     </nav>
     
-    <nav id="social" class="navbar navbar-default navbar-fixed-bottom">
+    <!-- SOCIAL SHARE BUTTONS -->
+    <nav class="social text-center navbar navbar-default navbar-fixed-bottom">
     	<div class="container-fluid">
-        	<div class="navbar-header">
-                
-                <!-- facbook like and share -->
-                <div class="fb-like" data-href="http://www.gigglesnshit.com/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-                
-                <div class="fb-share-button" data-href="http://www.gigglesnshit.com/" data-layout="button" data-mobile-iframe="true"></div>
-                
-                <div class="fb-send" data-href="http://www.gigglesnshit.com/"></div>
-                
-                <!-- Twitter -->
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.gigglesnshit.com" data-text="Check out Giggles N Shit Blog!" data-hashtags="gigglesnshitblog">Tweet</a>
-				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                
-                <!-- Google Plus -->
-                <div class="g-plus" data-action="share" data-annotation="none" data-href="http://www.gigglesnshit.com/"></div>
-                
-      		</div>
+        	<ul class="social-list">
+            	<!-- FACEBOOK -->
+            	<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
+                <!-- REDDIT -->
+            	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+                <!-- TWITTER -->
+                <li><a href="http://twitter.com/home?status=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog%20http://www.gigglesnshit.com/" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
+                <!-- GOOGLE PLUS -->
+                <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
+                <!-- PINTEREST -->
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+      		</ul>
         </div>
     </nav>
 
@@ -357,7 +355,7 @@
                 
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-1.php?id=1" class="portfolio-box">
-                        <img src="img/build/portfolio/announcement.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/announcement.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -372,7 +370,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-2.php?id=2" class="portfolio-box">
-                        <img src="img/build/portfolio/watermelon.JPG" class="img-responsive" alt="">
+                        <img src="img/portfolio/watermelon.JPG" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -387,7 +385,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-3.php?id=3" class="portfolio-box">
-                        <img src="img/build/portfolio/peanut.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/peanut.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -402,7 +400,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-4.php?id=4" class="portfolio-box">
-                        <img src="img/build/portfolio/the-bomb-1.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/the-bomb-1.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -417,7 +415,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="pages/blog-5.php?id=5" class="portfolio-box">
-                        <img src="img/build/portfolio/hospital.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/hospital.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
