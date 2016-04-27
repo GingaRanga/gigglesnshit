@@ -139,6 +139,10 @@ aside {
     background: #0094BC;
 }
 
+.social .fa-arrow-circle-up:hover {/* round back to top arrow*/
+	background:#F05F40;
+}
+
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     background-color: #fff;
