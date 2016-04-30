@@ -11,7 +11,7 @@
     <meta name="description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man.">
     <meta name="keywords" content="baby products, baby, baby's, baby wear, baby clothing, parent portal, parents, infant, newly baby, newborn baby, liver, disease, liver disease, biliary atresia, giggles, shit, giggles n shit, blog, parent, father, fommy, stay at home, funny, humour, dad, newborn, baby, nursery, web development, tech">
     <meta name="author" content="Evan Marshall">
-    <title>Giggles N Shit Blog</title>
+    <title>Tough Cookie</title>
 
  <!-- GOOGLE ANALYTICS ================================================================================================================================================== -->
     <?php include_once("../php/analyticstracking.php") ?>
@@ -39,10 +39,15 @@
     <meta property="og:url" content="http://www.gigglesnshit.com/pages/blog-6.php" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Tough Cookie" />
-    <meta property="og:description" content="It's going to get a little crazy on this blog! I am a new father, loving husband, and stay at home 'fommy.' Join me on my journey as I discuss hot-button topics and re-tell the mostly humourous side of being a family-man" />
+    <meta property="og:description" content="amazing little sugar solution called toot-sweet. For those of you who do not know, this clear sugar-liquid contained in a small purple tube, was named baby crack... Check out the 6th post on Giggles N Shit Blog" />
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/xmas.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+    
+<!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@gigglesshitblog" />
+    <meta name="twitter:creator" content="@evanmarshall" />     
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
@@ -116,7 +121,7 @@
                 <!-- REDDIT -->
             	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-6.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
                 <!-- TWITTER -->
-                <li><a href="http://twitter.com/home?status=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog%20http://www.gigglesnshit.com/pages/blog-6.php" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
+                <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22Tough%20Cookie%22%20on%20http://www.gigglesnshit.com/pages/blog-5.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-6.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
@@ -321,9 +326,9 @@
 
                 </div>
 
-<!-- PREVIOUS BLOG POSTS ================================================================================================================================================ -->
+<!-- ADDITIONAL BLOG POSTS ================================================================================================================================================ -->
                 <div class="col-md-4 text-center">
-                	<h2>Previous Posts</h2>
+                	<h2>You May Also Like...</h2>
                     <h3>Click the images below</h3>
 
                     <!-- Img trigger modal -->
