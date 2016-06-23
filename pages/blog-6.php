@@ -43,11 +43,19 @@
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/xmas.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+<<<<<<< HEAD
 
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
+=======
+    
+<!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@gigglesshitblog" />
+    <meta name="twitter:creator" content="@evanmarshall" />     
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
@@ -73,7 +81,11 @@
 
 </head>
 
+<<<<<<< HEAD
 <body id="page-top" itemscope itemtype="http://schema.org/Blog">
+=======
+<body id="page-top">
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
 <!-- GOOGLE ADSENSE ================================================================================================================================================== -->
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -119,15 +131,25 @@
             	<!-- FACEBOOK -->
             	<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-6.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
+<<<<<<< HEAD
             	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-6.php&title=amazing%20little%20sugar%20solution%20called%20toot%2Dsweet%2E%20For%20those%20of%20you%20who%20do%20not%20know%20this clear sugar-liquid contained in a small purple tube, was named baby crack... %2CCheck%20out%20the%206th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+=======
+            	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-6.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22Tough%20Cookie%22%20on%20http://www.gigglesnshit.com/pages/blog-5.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-6.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
+<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-6.php&media=http://www.gigglesnshit.com/img/portfolio/xmas.jpg&description=amazing%20little%20sugar%20solution%20called%20toot%2Dsweet%2E%20For%20those%20of%20you%20who%20do%20not%20know%20this clear sugar-liquid contained in a small purple tube, was named baby crack... %2CCheck%20out%20the%206th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-6.php&media=http://www.gigglesnshit.com/img/portfolio/xmas.jpg&title=amazing%20little%20sugar%20solution%20called%20toot%2Dsweet%2E%20For%20those%20of%20you%20who%20do%20not%20know%20this clear sugar-liquid contained in a small purple tube, was named baby crack... %2CCheck%20out%20the%206th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+=======
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-6.php&media=http://www.gigglesnshit.com/img/portfolio/xmas.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-6.php&media=http://www.gigglesnshit.com/img/portfolio/xmas.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
       		</ul>
@@ -263,19 +285,32 @@
             <div class="row">
                 <div class="col-md-8 text-center">
 
+<<<<<<< HEAD
                 	<h1 itemprop="name">"Tough Cookie"</h1>
                     <h2 class="section-heading">April 26<sup>th</sup>, 2016</h2>
 
                     <hr class="light">
 
                     <img itemprop="image" class="img-responsive" src="../img/portfolio/xmas.jpg" alt="blog post banner">
+=======
+                	<h2>"Tough Cookie"</h2>
+                    <h3 class="section-heading">April 26<sup>th</sup>, 2016</h3>
+
+                    <hr class="light">
+
+                    <img class="img-responsive" src="../img/portfolio/xmas.jpg" alt="blog post banner">
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                     <hr class="light">
 
 
                     <h2>The Day to Day</h2>
 
+<<<<<<< HEAD
                     <p itemprop="description" class="text-faded">Our first week started out with a bang. Katie and I had come to terms with the fact that Isla most likely had Biliary Atresia, but there was still a little hope in the back of our minds that she might still be fucking with us (too bad it wasn’t April fools). Our mornings began with wake up sessions from the blood lab. Isla, the tough cookie, did not really mind the little poke on the bottom of her heel. What she did mind was the restraint caused by one of the technicians holding her leg straight as the other quickly scraped blood into a test tube, drop by drop (the girl just liked to move it, move it!).</p>
+=======
+                    <p class="text-faded">Our first week started out with a bang. Katie and I had come to terms with the fact that Isla most likely had Biliary Atresia, but there was still a little hope in the back of our minds that she might still be fucking with us (too bad it wasn’t April fools). Our mornings began with wake up sessions from the blood lab. Isla, the tough cookie, did not really mind the little poke on the bottom of her heel. What she did mind was the restraint caused by one of the technicians holding her leg straight as the other quickly scraped blood into a test tube, drop by drop (the girl just liked to move it, move it!).</p>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                     <hr class="light" style="width:50%;">
 
@@ -322,7 +357,11 @@
 
                     <p class="text-faded">That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
+<<<<<<< HEAD
                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
+=======
+                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                 </div>
 
@@ -378,9 +417,12 @@
                                     <p>All is forgotten of the aforementioned argument that night, we hold each other with tears in our eyes and laughing due to the irony of what just happened. I may have mustered out: “guess we have no choice now,” as I look nervously over her shoulder at the pair of scissors behind her back….</p>
 
                                     <p>Just kidding (about the scissors)!</p>
+<<<<<<< HEAD
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
                                     
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -434,8 +476,11 @@
 
                                     <p>Peace out!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -505,8 +550,11 @@
 
                                     <p><strong>P.S.</strong> I now understand why we have no recollection of our births. That shit is traumatic.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -558,8 +606,11 @@
 
                                     <p>You will soon see that our little Bambino is one tough SOB and she was damn good at getting me off work, un-planned (arriving a week early and now with a potential health issue). I would prefer to get off work for other reasons, but thank you dear. The holidays were now creeping up, we had just been admitted to the IWK (the bomb hasn't been dropped yet), and we don't even realize how our lives will change, yet again.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -605,6 +656,7 @@
 
                                     <p>Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -724,6 +776,8 @@
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

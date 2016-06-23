@@ -43,11 +43,19 @@
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/peanut.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+<<<<<<< HEAD
 
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
+=======
+    
+<!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@gigglesshitblog" />
+    <meta name="twitter:creator" content="@evanmarshall" />    
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
@@ -119,15 +127,25 @@
                 <!-- FACEBOOK -->
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-3.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
+<<<<<<< HEAD
                 <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-3.php&title=Just%20a%20note%20to%20all%20of%20you%20new%20to%20being%20fathers%20out%20there%3AWhen%20your%20wife%20invites%20you%20into%20the%20bathroom%2C%20when%20she%20is%20within%20a%20week%20of%20her%20due%20date%2C%20it%20is%20not%20for%20a%20party%2E%2E%2E%20Check%20out%20the%203rd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+=======
+                <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-3.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22Dr%20Sloth%22%20on%20http://www.gigglesnshit.com/pages/blog-3.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-3.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
+<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-3.php&media=http://www.gigglesnshit.com/img/portfolio/peanut.jpg&description=Just%20a%20note%20to%20all%20of%20you%20new%20to%20being%20fathers%20out%20there%3AWhen%20your%20wife%20invites%20you%20into%20the%20bathroom%2C%20when%20she%20is%20within%20a%20week%20of%20her%20due%20date%2C%20it%20is%20not%20for%20a%20party%2E%2E%2E%20Check%20out%20the%203rd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-3.php&media=http://www.gigglesnshit.com/img/portfolio/peanut.jpg&title=Just%20a%20note%20to%20all%20of%20you%20new%20to%20being%20fathers%20out%20there%3AWhen%20your%20wife%20invites%20you%20into%20the%20bathroom%2C%20when%20she%20is%20within%20a%20week%20of%20her%20due%20date%2C%20it%20is%20not%20for%20a%20party%2E%2E%2E%20Check%20out%20the%203rd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+=======
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-3.php&media=http://www.gigglesnshit.com/img/portfolio/peanut.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-3.php&media=http://www.gigglesnshit.com/img/portfolio/peanut.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
             </ul>
@@ -263,6 +281,7 @@
             <div class="row">
                 <div class="col-md-8 text-center">
 
+<<<<<<< HEAD
                 	<h1 itemprop="name">"Dr. Sloth..."</h1>
                     <h2 class="section-heading">April 5<sup>th</sup>, 2016</h2>
 
@@ -377,6 +396,119 @@
 
                     <hr class="light">
 
+=======
+                	<h2>"Dr. Sloth..."</h2>
+                    <h3 class="section-heading">April 5<sup>th</sup>, 2016</h3>
+
+                    <hr class="light">
+
+                    <img class="img-responsive" src="../img/portfolio/peanut.jpg" alt="blog post banner">
+
+                    <hr class="light">
+
+                    <p class="text-faded">Let's recap: We had an awkward butt wiping, we had a Halloween-long-John reception, we had watermelons flying and a peanut butter burgers feast. Now we are finally here. We are at the day that you know is coming, you try to prepare for, but always end up in a bag full-o-emotions. Labour Day, and not the fun one.</p>
+
+                    <p class="text-faded">Leading up to Labour Day was like those stupid Facebook videos with the beautiful rolling hills, somber Irish background music, with a car leisurely coasting through the twisty turns (you know what's coming but not sure when) and then BAM! An ugly zombie-looking monster pops up in your field of view just to startle you. Except in this instance no zombie creature pops up. It is a goopy and alien-like creature, but I wouldn't say a zombie. </p>
+
+                    <p class="text-faded">We knew it was getting down to the crunch. Katie had finally taken work off due to her swollen kankles and due to falling asleep while face to face with staff members during a conversation. It was three weeks before her due date and we were anxiously awaiting our little bambino's arrival. </p>
+
+                    <p class="text-faded">We made it to about a week prior to the due date. November 10<sup>th</sup> 2015. We had a little bag prepared (not too much packed since we live about 1 minute away from the hospital or Katie's place of work), our minds were prepared and we knew we were going to be having a long day. People had gone from asking me how Katie was doing once a week to asking a couple times a day. It got to the point where I simply responded by saying: "If you see me run out of here like someone just told me my house was broken into (this actually happened), then you know how she's doing." Did I mention I work an hour away from home as well as the hospital? (I know eh, Katie drew the longer straw, but you can get the princess out of the castle but you can't get the princess out of the girl... Not sure if that makes any sense but it's provocative eh?) Luckily I did not need to turn my 2009 Hyundai Elantra into a NASCAR and Labour Day came while we were both at home. </p>
+
+                    <p class="text-faded">Just a note to all of you "new to being fathers" out there: When your wife invites you into the bathroom, when she is within a week of her due date, it is not for a party if you know what I mean... Katie had just finished her shower and called for me while I was still in bed sleeping. She was startled by some fluid running down her leg in the shower, which she was pretty sure wasn't the shower water or pee (who knows, she might be one of those gross people who let the bladder rip in the shower). She simply said: "Babe, I think I've gone into labour." Skadoosh! I was ready for this day. I had read all of the online blogs about how to support your wife during labour, I had my camera ready for the "belfie" (again, I unfortunately can't copyright that beautiful word), I did my morning push-ups for a month, and stretched on the hour. </p>
+
+                    <p>Check out the <a href="http://www.buzzfeed.com/stephaniemcneal/but-first-let-me-take-a-selfie#.kcrvVr23P" style="color:black;"><strong>article</strong></a> on the birth-selfie it's kind of funny.</p>
+
+                   	<p class="text-faded">Not very much of the aforementioned things were true. I know you are shocked that I did not do daily push-ups, but it's true, I'm just blessed with this perfect body naturally (I did read up on supporting wifey during labour, but I'm not even sure the bag came with us to the hospital). So here's the life lesson I learned on Labour Day: You can plan all you want, not much if any of it will actually happen, just be there.</p>
+
+                    <p class="text-faded">Everything was pretty low key at this moment. I think I even saw a glimmer of hope in Katie's eyes: “Hey, if this is the pain, I don't know what all of those pansy mothers have been bitching about all of these years." We hopped into our SUV and began the 1 minute journey to the hospital. I learned, once we got there, that false alarms are a common occurrence because everyone was pretty chill. No one was dropping everything they were doing to push the pregnant lady to the ER, while punching out anyone who got in the way (you know like on the TV shows).</p>
+
+                    <p class="text-faded">No, it was all pretty straight forward. Obviously Katie's labour was going to be just as straight forward as her pregnancy, less those couple moments mentioned in my last post. They completed the fluid test and confirmed that "yes" her water broke. They hooked her up to the machine from ancient times, which spits out what you would see on a Richter scale, to time her contractions. Not much has changed in this medical technology... I mean hey, some crazy women are popping those little creatures out in their home bathtub. We got moved to the labour and delivery room as the contractions gradually got stronger and as Katie's look of: “Pssh, this is going to be a breeze" slowly turned into: “Damn, this shit hurts." </p>
+
+                    <p class="text-faded">Katie wanted to try to do things as natural as possible. No pain medication,  no cesarean section, no epidural, etc. I, as well as everyone else, respected that even though we were all thinking: “Good luck with that." Once you are feeling the pain of birth and you know the good stuff (medication) is in the next room, it is amazing how quickly your morals change. I have to hand it to her though; she stuck to her guns for the most part. Besides an occasional shot of Fentanyl and sucking on the gas mask like you suck on a Freezie to get the last remnants of that beautifully sweet surprise at the end; she held in there. She’s one tough mo fo. </p>
+
+                    <p class="text-faded">One more tip for all of you soon-to-be parents out there: There is no time in which you can't have an epidural (we learned this after the fact). Some staff will fight you on it because it can slow things down, which can be risky, but if you want it you go girlfriend! Well, Katie did eventually want it. When you're in enough pain and you've gained a tolerance to the gas, you will do anything to get rid of the pain. You don't care that there is a room full of people looking directly at your goodies. You don't care about the trauma that will be done to your taco. You don't care that you just mentally scarred that poor resident for sticking her fingers in your already stretched petunia. JUST... GET... ME... THAT... EPIDURAL!</p>
+
+                    <p class="text-faded">We finally convinced them to allow the epidural to happen. Here is something you don't want to hear when you get to this stage of labour and they wheel in the "epidural kit," (which looks just like that red metal tool box my father in law has in his garage, with a sticker label on it): "Well ok, we just want to warn you, the doctor is very particular and he likes to explain everything thoroughly before starting." "So he's slow as fuck?!" Well slow is an understatement. That dickhead was so slow he didn't even show up. He's probably still on his way to Isla's birth, five months later!</p>
+
+                    <p class="text-faded">Needless to say, Katie, unintentionally did not get to enjoy the pleasures of birth offered by the glorious epidural. Her labour started progressing to the point of no return. Isla was ready to see the world! Isla's heart rate was dropping with each contraction, in line with Katie's possessed screams to the holy hell. They wasted no time and attached the heart rate monitor to Isla's head (did you know they actually screw this into her head?! That shit is messed up!). They got Katie's OBGYN into the room followed by the torturer (poor resident), followed by a team of paediatricians. So you knew it was game time. They attached a suction to Isla's head in order to assist with Katie's pushing. I think 50 people’s faces and hands were all up in Katie's business at this point. Between you-me, you feel pretty useless as a husband in this room. I guess besides the back rubs and consoling, while your wife is on all fours pushing a human into the world, you feel pretty inadequate. It all happened pretty quickly now. One snip, one push, one Doctor yanking at your baby, one wide-eyed husband rocking in the corner and POP! Out comes what is the greatest blessing of your life. </p>
+
+                    <p class="text-faded">Katie was cute in this moment and looked up at me to ask how I was doing to which I just laughed and incredulously said: "how am I doing?!" I'm a pretty calm cool and collected guy who shows little emotion, but when that baby was handed to me I was a bubbling basket of emotions. I don't know if it was happiness or relief that my hand might regain feeling again one day. Just as quickly as the room filled, it was empty again. The room did not look as if life had been brought into it, but actually quite the contrary. There were blood smears on the floor, stains of every shade on the blankets, a panting pain relieved mother on the bed, and a father in the corner who could not stop staring at his creation. Even with all of that we still managed to snap a few pics of our little girl for the herds of friends and family anxiously waiting (make sure you follow Giggles N Shit Blog on <a href="https://www.facebook.com/gigglesnshitblog/">Facebook</a> and <a href="https://www.instagram.com/gigglesnshitblog/">Instagram</a> so you don't miss any of these pics). </p>
+
+                    <p class="text-faded">I always said newborn babies looked like a combination of alien and red jelly bellies, but when it's your own child you're "blinded by the light, revved up like a douche and running through the night" (I know those aren't the right lyrics but great song nonetheless). Your child always looks beautiful, but now looking at pictures before and after, she definitely looked like my little cherry jelly bean. </p>
+
+                    <p class="text-faded">I am still amazed at how much you love that little peanut instantly. I've never had it hit me right away like that. With a spouse it takes time and effort. With family you know you have to love them no matter what. I don't believe in all of the Hollywood fairy tale bullshit of love at first sight, fate, etc, but I have to say with Isla it was definitely love at first site. </p>
+
+                    <p><h3>And so Isla's story begins! Weighing in at 7 pounds 1 ounce, and arriving at approximately 4 pm, on November 10<sup>th</sup>, 2015. </h3></p>
+
+                    <p class="text-faded"><strong>P.S.</strong> I now understand why we have no recollection of our births. That shit is traumatic.</p>
+
+                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
+
+                </div>
+
+<!-- ADDITIONAL BLOG POSTS ================================================================================================================================================ -->
+                <div class="col-md-4 text-center">
+                    <h2>You May Also Like...</h2>
+                    <h3>Click the images below</h3>
+
+                    <!-- Img trigger modal -->
+                    <div class="thumbnail">
+                        <img class="img-responsive" alt="post 1 image" src="../img/portfolio/announcement.jpg" data-toggle="modal" data-target="#myModal-1">
+                        <div class="caption">
+                            <h3>"Shit, I'm Pregnant..."</h3>
+                            <h4>March 20<sup>th</sup> 2016</h4>
+                            <hr>
+                            <p>It’s early April of 2015. My wife Katie and I are on one of our leisurely drives around town looking at random houses while dreaming, critiquing, and scoffing at the sites...</p>
+                        </div>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="myModal-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="color:black;">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                    <h3 class="modal-title" id="myModalLabel">"Shit, I'm Pregnant..."</h3>
+                                    <h4>March 20<sup>th</sup> 2016</h4>
+
+                                </div>
+                                <div class="modal-body">
+
+                                    <h5>Click <a href="blog-1.php">here</a> for full article or read "text-only" version below</h5>
+                                    <hr>
+
+                                    <p>It’s early April of 2015. My wife Katie and I are on one of our leisurely drives around town looking at random houses while dreaming, critiquing, and scoffing at the sites. I am not sure if this is a normal thing couples do, but when we  have nothing better to do some evenings, we like to hop in our late 2012 Nissan Rogue and drive through neighbourhoods. Sometimes when we see a beautiful house we even slow down, take pictures as the SUV crawls by, and then speed away before people call the cops on us. So far we have not had any jail time so I’d say we are professionals.</p>
+
+                                    <p>On this particular night in April, we were on our way home and we were having a somewhat civil argument. Before I get into details of the argument I will give you a quick run down of our history. I do not want you to think our relationship is doomed because of a silly fight which turned out to be one of the best nights of our relationship (oh the suspense, I know!).</p>
+
+                                    <p>I met Katie in high school in a town/ suburb/ city/ (who knows what the fuck to classify the shit hole where I grew up). Google: “Sack-Vegas” and the first hit will give you a good idea of my roots. Yes that is a “Welcome to the Wonderful Sack-Vegas” sign and yes it was actually a real sign placed by the highway leaving town, which made local the news before it was taken down.
+                                    Go to YouTube and search: “Lower Sackville Promo” and you will find a wonderful video with a very accurate description of my hometown (the narrative is to die for).
+                                    You know what… screw searching for these things… it is 2016 and I am not a moron (some might disagree) so check out the link and embedded video below. I can just see my aunt Juanita saying: “Evan, you said to Google Sack-Vegas and now all of my Facebook friends see my new profile picture of what looks to be a nice, well-formed pair of breasts in the latest Victoria’s Secret bra until they click on it and reveal a hairy, obese man’s ass-crack in a pair of polka dot bros (Seinfeld reference).” Or my mother Ethel saying: “Evan, you said to look-up Lower Sackville Promo on YouTube and now a man named Rasheed from Windows said my computer was infected with viruses and I no longer have a left kidney.” I’ll save you the trouble… </p>
+
+                                    <p>Sorry about that tangent, now back to the main story: we met at Sackville High. I was fresh out of a relationship and my friend, who never knew how to stay away from the “friend-zone,” devised a new (failure) of a scheme to pickup a lady-friend whom he had eyes for. This lady-friend turned out to be friends with my now current and only wife. All he had to do was tell me I was on the list of who she found cute in high school and I was like “BAM! Cat in the bag!” Triple date time with two of my good lads. It was Halloween night and we went out to see one of the worst movies to franchises in existence: “Saw.” You know, the first one, the one where the guy uses a jig-saw to cut off his hand to escape the game. My 4 year old nephew can act better than that for a Klondike bar. The movie went well, my two buddies bitched out and went home afterwards, and Katie had a fabulous idea to keep the night young. “Let’s go trick or treating.” (to many of my friend’s and families’ dismay my trick or treating went on until I was into my early 20s).</p>
+
+                                    <p>So here I am stuck with Katie and two other girls, by myself, trick or treating (i know, rough life, eh?). Problem was I did not have anything to wear, come to think of it, none of us did. We started at Katie’s house and she rummaged through her things and whipped together four costumes. I only remember her costume and mine because obviously they were the two best ones. Katie’s costume was a simple pair of white long john’s and rubber boots and mine ended up being a dress with a tight, pointy elf hat (go figure…). In retrospect the next thing that happened turned out to be a short and meaningful moment in which I will never forget. On our way out to bag ourselves a good bounty of candy I had my first interaction with Katie’s father. Her mother loved me right away, but that is just the type of lovely and personable person she is. Katie’s dad on the other hand is a more reserved individual who believes in the more old school ways of father son-in-law relationships. Truth is he loves his two daughters more than anything in the world and if anyone hurt them they would probably be shot (he has even shown me the collection of guns and bullets he owns and loves to take me to the shooting range, just he and myself and no witnesses). But hey, now that I am a father of a beautiful innocent baby girl, I can completely understand. Now that I have made it into the inner circle I know most of it is a front and deep down he is a big softy. Any who… I think that was anther small tangent… maybe I have a problem. So this moment I will never forget was when I came out of Katie’s room with two of her girlfriends, wearing a green (I think floral patterned) dress with a tight red and yellow elf cap. As I was walking out of the house I walked past the master bedroom where Katie’s father was laying down watching a show. At the time I did not think anything of it because I had no idea who this man was, but in retrospect I am lucky I have been around this long. It is nerve-racking to meet the girlfriend’s father in the first place, but try doing it while dressed up like an idiot, with sweaty palms and a goofy smile on your face. Luckily there was only a quick, “Who the fuck is this dumbass?!” moment, where he was caught off guard just as much as I was and all we could both muster was a quick: “Hey!” with a nod. Come to think of it, I got off easy with her father on several occasions over the last decade due to catching him off guard. Asking him if I could marry his daughter was another one of these occasions, but I will spare you another tangent and mention that in a future blog post. I know, pretty insignificant and small moment there, big guy… but if you guys know Katie’s father or if I described him well enough, I am sure you get how huge that split second was. I doubt in that moment he thought he was seeing the man of his daughter’s dreams.</p>
+
+                                    <p>The rest of the evening went very well. Katie was the first down to earth, funny, sexy girl I had ever met. I was beginning to think that a girl such as this, in Lower Sackville (Nova Scotia, Canada), was a unicorn (see one of my favourite videos describing a unicorn below). </p>
+
+                                    <p>To be honest, I only went on the date as a favour to my “friend-zone” buddy as I was not looking for anything serious at the time. I think the moment I knew this girl was worth a second glance was while we were walking up to our first house for candy. As we were walking, I did not realize (sorry Katie and your family), but I was staring at her perfectly formed, upside-down heart shaped booty being cradled by the tight long-johns like a mother holding a baby in each arm. I realized I was in a trance when Katie looked back at me and boldly said: “Well if you’re going to stare at it you might as well grab it,” to which I giddyingly &copy; obliged. At that moment was the first time I had realized I met my match.</p>
+
+                                    <p>Skip ahead 11 years, past many many more stories, trials and tribulations; back to April 2015. Don’t worry, I am sure the many details of those 11 years will come out in future tangents. Here we are again, arguing about when and if we will ever be ready to start a family (and this is not the first time we had this argument, but it is a memorable one for sure). Truth is, there is never a perfect time. I have known my whole life that I wanted to start a family someday. I would even have 15 kids if it were financially and mentally feasible (when you are not living on a farm). Katie definitely wanted a child or two, but was a little more apprehensive about it than I. You already know my wife has a very endearing potty mouth, but one other thing you do not know is that she has OCD (or C-D-O as she lamely likes to call it because that is alphabetical order). She likes to have every detail planned out and organized. The problem with this and having a child is that they clash. If you are truly serious about diving into the wonderful world of being a parent then you need an ounce of impulsiveness and faith that everything will be alright. When you are up at 4 am, after 4 weeks straight of your baby screeching, whilst knowing you need to be up in an hour to drive to your place of work (so that you can muster out a good zombified 8 hours of bullshit), you definitely need to have faith that everything will be alright. This lackadaisical demeanour is a lot easier for a fly-by-the-seat-of-your-pants type of guy guy like myself, but not so much for a OCD planner. Needless to say, we had some clashing of opinions about when this family thing was gong to start and this night in April 2015 was no exception. We didn’t get anywhere in our argument that night. We ended up storming into the house together and going into separate rooms. I was beginning to wonder if I would be needing Viagra by the time she would be ready, but also knowing I would make that a reality if I kept pushing. I am out in the living room watching a show when I hear Katie having a maniacal laughing fit in the bathroom and calling out my name. After I check that all of the knives are in the knife block and my gun is locked away, I cautiously walk towards the bathroom. She whips up a pregnancy test (in which I dive out of the way of, in fear of urine landing on my face) and there are two blue lines. Oh and you know she ain’t leaving it at one test with all of the false positives running around out there. She opens a drawer and out fall ten more tests all with the same two blue lines (ok, ten is a slight exaggeration for effect, it was probably only one more, but I wouldn’t be surprised if she had a drawer somewhere).</p>
+
+                                    <p>All is forgotten of the aforementioned argument that night, we hold each other with tears in our eyes and laughing due to the irony of what just happened. I may have mustered out: “guess we have no choice now,” as I look nervously over her shoulder at the pair of scissors behind her back….</p>
+
+                                    <p>Just kidding (about the scissors)!</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="light">
+
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
                         <img class="img-responsive" alt="post 2 image" src="../img/portfolio/watermelon.jpg" data-toggle="modal" data-target="#myModal-2">
@@ -420,8 +552,11 @@
 
                                     <p>Peace out!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -473,8 +608,11 @@
 
                                     <p>You will soon see that our little Bambino is one tough SOB and she was damn good at getting me off work, un-planned (arriving a week early and now with a potential health issue). I would prefer to get off work for other reasons, but thank you dear. The holidays were now creeping up, we had just been admitted to the IWK (the bomb hasn't been dropped yet), and we don't even realize how our lives will change, yet again.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -520,8 +658,11 @@
 
                                     <p>Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -583,6 +724,7 @@
 
                                     <p>That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -702,6 +844,8 @@
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -729,11 +873,48 @@
 
                         ?>
 
+<<<<<<< HEAD
                 </div>
             </div>
         </div>
     </section>
 
+<!-- RECOMMENDED RESOURCES ================================================================================================================================================ -->
+    <section>
+        <div class="container-fluid">
+            <h2 class="text-center">Highly Recommended Resources for my Readers</h2>
+            <hr>
+            <div class="row">
+                <div class="col-lg-6 text-center">
+                    <div class="thumbnail">
+                        <a href="http://www.sickboypodcast.com/"><img class="img-responsive" alt="sickboy podcast banner" src="../img/portfolio/sickboy.jpg"></a>
+                        <div class="caption">
+                            <h3>Sickboy Podcast</h3>
+                            <hr>
+                            <p>To say the three dudes on this podcast are entertaining is a gross understatement. I started listening to their podcast before Isla was diagnosed with her disease. I was intrigued by the story of one of the hosts actually living with Cystic Fibrosis and having seen him on television in the past; I knew the podcast would be hilarious. The three hosts of Sickboy provide a disambiguation of sickness ranging from adult circumcision to depression to end stage cancer. They take a no holds barred approach and discuss everything under the sun with their guests whom are inflicted with an illnesses. Click the <a href="http://www.sickboypodcast.com/"><strong>logo</strong></a> above to be directed to their site where you can listen to clips, signup on iTunes, follow on Twitter, Facebook, and Instagram!</p>
+                        </div>
+                    </div>
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
+                </div>
+
+                <div class="col-lg-6 text-center">
+                    <div class="thumbnail">
+                        <a href="https://healthunlocked.com/"><img class="img-responsive" alt="health unlocked banner" src="../img/portfolio/health-unlocked.png"></a>
+                        <div class="caption">
+                            <h3>Health Unlocked</h3>
+                            <hr>
+                            <p>The forum scene on the internet, especially Facebook, for diseases is very dire to say the least. There is a bunch of negativity, misinformation and people just looking for a handout. I stumbled upon Health Unlocked and finally found legitimate information on Biliary Atresia. The site covers tons of other disorders as well, so if you're looking for information or support on most diseases, you'll find it here. This site has a great forum where Katie and I discovered many other parents going through the exact same thing as us. Please click the <a href="https://healthunlocked.com/"><strong>logo</strong></a> above to be directed to their site!</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+<<<<<<< HEAD
+=======
 <!-- RECOMMENDED RESOURCES ================================================================================================================================================ -->
     <section>
         <div class="container-fluid">
@@ -766,6 +947,7 @@
         </div>
     </section>
 
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 <!-- FACEBOOK COMMENTS ================================================================================================================================================ -->
     <section class="bg-dark">
         <div class="container-fluid">

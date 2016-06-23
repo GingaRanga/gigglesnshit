@@ -43,11 +43,19 @@
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/hospital.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+<<<<<<< HEAD
 
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
+=======
+    
+<!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@gigglesshitblog" />
+    <meta name="twitter:creator" content="@evanmarshall" />    
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
@@ -119,15 +127,25 @@
             	<!-- FACEBOOK -->
             	<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-5.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
+<<<<<<< HEAD
             	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-5.php&title=The%20nail%2Dbiting%20day%20had%20arrived%2E%20The%20day%20we%20were%20to%20find%20out%20if%20our%20precious%20little%20peanut%20was%20just%20messing%20with%20us%20or%20about%20to%20change%20our%20lives%2E%2E%2E%20Check%20out%20the%205th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+=======
+            	<li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-5.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22The%20Bomb%20Drop%20Part%20II%22%20on%20http://www.gigglesnshit.com/pages/blog-5.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-5.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
+<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-5.php&media=http://www.gigglesnshit.com/img/portfolio/hospital.jpg&description=The%20nail%2Dbiting%20day%20had%20arrived%2E%20The%20day%20we%20were%20to%20find%20out%20if%20our%20precious%20little%20peanut%20was%20just%20messing%20with%20us%20or%20about%20to%20change%20our%20lives%2E%2E%2E%20Check%20out%20the%205th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-5.php&media=http://www.gigglesnshit.com/img/portfolio/hospital.jpg&title=The%20nail%2Dbiting%20day%20had%20arrived%2E%20The%20day%20we%20were%20to%20find%20out%20if%20our%20precious%20little%20peanut%20was%20just%20messing%20with%20us%20or%20about%20to%20change%20our%20lives%2E%2E%2E%20Check%20out%20the%205th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+=======
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-5.php&media=http://www.gigglesnshit.com/img/portfolio/hospital.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-5.php&media=http://www.gigglesnshit.com/img/portfolio/hospital.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
       		</ul>
@@ -263,6 +281,7 @@
             <div class="row">
                 <div class="col-md-8 text-center">
 
+<<<<<<< HEAD
                 	<h1 itemprop="name">"The Bomb Drop: Part II"</h1>
                     <h2 class="section-heading">April 19<sup>th</sup>, 2016</h2>
 
@@ -273,6 +292,18 @@
                     <hr class="light">
 
                     <p itemprop="description" class="text-faded">The nail-biting day had arrived. The day we were to find out if our precious little peanut was just messing with us or about to change our lives. We had packed for about a week and had hoped it would not be any longer than that. Usually having most of our close friends living in Halifax (1.5 hours away from home) was inconvenient unless we needed a place to crawl back to after a night of “apple juice” drinking, however, this trip it was a god-send. Especially my best bud’s wife, Cindy. They lived about a 10 minute walk from the IWK and they went above and beyond during our stay at the hospital. They offered a room in their house for us to stay, if needed, and Cindy checked in on us almost everyday. Katie and I dropped off all of our luggage at the Snillis’ (name changed in order to protect their identity) and headed to the hospital to get Isla admitted. Who would have known Isla’s first big outing would be to the IWK, how exciting… </p>
+=======
+                	<h2>"The Bomb Drop: Part II"</h2>
+                    <h3 class="section-heading">April 19<sup>th</sup>, 2016</h3>
+
+                    <hr class="light">
+
+                    <img class="img-responsive" src="../img/portfolio/hospital.jpg" alt="blog post banner">
+
+                    <hr class="light">
+
+                    <p class="text-faded">The nail-biting day had arrived. The day we were to find out if our precious little peanut was just messing with us or about to change our lives. We had packed for about a week and had hoped it would not be any longer than that. Usually having most of our close friends living in Halifax (1.5 hours away from home) was inconvenient unless we needed a place to crawl back to after a night of “apple juice” drinking, however, this trip it was a god-send. Especially my best bud’s wife, Cindy. They lived about a 10 minute walk from the IWK and they went above and beyond during our stay at the hospital. They offered a room in their house for us to stay, if needed, and Cindy checked in on us almost everyday. Katie and I dropped off all of our luggage at the Snillis’ (name changed in order to protect their identity) and headed to the hospital to get Isla admitted. Who would have known Isla’s first big outing would be to the IWK, how exciting… </p>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                 	<p class="text-faded">First thing’s first: we headed on down to the first floor of the hospital to get Isla setup for her ultrasound. They wanted to get a look at her liver and other organs as a first measure diagnostic. Isla loved the ultrasound (as evidenced by her sleeping through the entire exam)… well probably not the ultrasound rather the dimly lit room with the soothing hum of the machine fan as well as the warm blanket placed over her (at times, even I was tempted to sleep, but I guess that would be frowned upon being a respectful adult and all). Katie and I were looking intently at the screen in which the ultrasound technician kept flying through different images, snapping pictures as well as sound clips. I don’t know what Katie and I were expecting to see, because to the untrained eye it just looked like a bunch of gobble-y-gook. After about an hour, give or take, the technician finished everything she had to do and went to get the doctor for a final look. When the doctor came in the room both her and the technician brought up a specific area of Isla’s insides back onto the screen. They seemed puzzled and were having a hard time finding her gall bladder. At this time, all we knew was this could be a problem or it could be normal, due to the gall bladder being about the size of a piece of dandruff on a 1 month old. One diagnostic test complete, that wasn’t so bad, now on to patient admittance.</p>
 
@@ -282,7 +313,11 @@
 
                		<p class="text-faded">Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much.</p>
 
+<<<<<<< HEAD
                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
+=======
+                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                 </div>
 
@@ -581,6 +616,7 @@
 
                                     <p>That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -700,6 +736,8 @@
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

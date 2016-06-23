@@ -43,11 +43,19 @@
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/watermelon.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+<<<<<<< HEAD
 
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
+=======
+    
+<!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@gigglesshitblog" />
+    <meta name="twitter:creator" content="@evanmarshall" />    
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
 <!-- MINIFIED BOOTSTRAP CSS ====================================================================================================================================== -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
@@ -119,15 +127,25 @@
                 <!-- FACEBOOK -->
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-2.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
+<<<<<<< HEAD
                 <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-2.php&title=When%20people%20find%20out%20you%20are%20going%20to%20become%20a%20parent%2C%20a%20grey%20cloud%20emerges%20in%20the%20sky%2C%20thunder%20crashes%20around%20you%2C%20a%20red%20haze%20fills%20the%20air%20and%20pure%20evil%20seems%20to%20indoctrinate%20anyone%20you%20speak%20to%2E%2E%2ECheck%20out%20the%202nd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+=======
+                <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-2.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22The%20Watermelon%20Incident%22%20on%20http://www.gigglesnshit.com/pages/blog-2.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-2.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
+<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-2.php&media=http://www.gigglesnshit.com/img/portfolio/watermelon.jpg&description=When%20people%20find%20out%20you%20are%20going%20to%20become%20a%20parent%2C%20a%20grey%20cloud%20emerges%20in%20the%20sky%2C%20thunder%20crashes%20around%20you%2C%20a%20red%20haze%20fills%20the%20air%20and%20pure%20evil%20seems%20to%20indoctrinate%20anyone%20you%20speak%20to%2E%2E%2ECheck%20out%20the%202nd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-2.php&media=http://www.gigglesnshit.com/img/portfolio/watermelon.jpg&title=When%20people%20find%20out%20you%20are%20going%20to%20become%20a%20parent%2C%20a%20grey%20cloud%20emerges%20in%20the%20sky%2C%20thunder%20crashes%20around%20you%2C%20a%20red%20haze%20fills%20the%20air%20and%20pure%20evil%20seems%20to%20indoctrinate%20anyone%20you%20speak%20to%2E%2E%2ECheck%20out%20the%202nd%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+=======
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-2.php&media=http://www.gigglesnshit.com/img/portfolio/watermelon.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-2.php&media=http://www.gigglesnshit.com/img/portfolio/watermelon.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
             </ul>
@@ -263,6 +281,7 @@
             <div class="row">
                 <div class="col-md-8 text-center">
 
+<<<<<<< HEAD
                 	<h1 itemprop="name">"The Watermelon Incident..."</h1>
                     <h2 class="section-heading">March 28th 2016</h2>
 
@@ -367,6 +386,109 @@
 
                     <hr class="light">
 
+=======
+                	<h2>"The Watermelon Incident..."</h2>
+                    <h3 class="section-heading">March 28th 2016</h3>
+
+                    <hr class="light">
+
+                    <img class="img-responsive" src="../img/portfolio/watermelon.jpg" alt="blog post banner">
+
+                    <hr class="light">
+
+                    <p class="text-faded">Nine months of: "You'll want to pull your hair out!" Nine months of: "Crazy mood swings and cravings." When people find out you are going to become a parent, a grey cloud emerges in the sky, thunder crashes around you, a red haze fills the air and pure evil seems to indoctrinate anyone you speak to. "Once that miniature devil is born, say goodbye to your life as you know it and hello to the worse years of your life!" "That thing will ruin your wife's body and you will never sleep, have sex, or a peaceful moment again!" Really people? Is it really that bad or are you just boring and narcissistic about accomplishing such an amazing feat that you just HAVE to tell the world about how you survived it? Why the hell do people even start a family if it's so overwhelmingly difficult?</p>
+
+                    <p class="text-faded">For all of you soon-to-be parents/spouses of a pregnant woman out there, I'm here to say: "it's really not that bad." Now I know some mothers have complicated pregnancies and some mothers lack support from a partner, so I understand there can be some truth in the negativity of pregnancy and birth. Fortunately Katie's first pregnancy was relatively straight forward (that doesn't mean there weren't funny situations throughout). In my opinion, even in some really shitty situations, I think it is all about your perspective. There is always a silver lining of positivity and humour even in the worst situations. I have observed the people who have told me the "horror stories" of pregnancy and raising a child, and to be honest I'm not surprised. Pacifying their children with a smartphone, sheltering their children from what's important in life (i.e. not allowing them to fail in school when they clearly are or the famous: everyone is a winner crap), not believing in discipline or saying "no" to their child, and buying into the next hippy-dippy parenting thing they read on Facebook (do you know people actually save their placentas and convert them into pill form for nutrition? Isn't that cannibalism??). Come on people, are you really surprised you're having a difficult time with parenting? "No Mr. Teacher (who has forty more years of maturing on this planet than my five year old) my son would never kick up sand into the face of some douchebag kid who stole his popcorn at recess." “Well guess what Mr. Parent, kids are little assholes and so were you when you were that age so get your head out of the clouds and let the poor teacher do his job.”  Isn't it our responsibility to provide care and love to our women carrying one of the most precious things in human creation for nine months (within reason... they aren't completely useless and you know they will milk it once in a while)? Isn't it our responsibility to let these innocent, underdeveloped creatures learn the ways of this cruel world with our guidance? One of my favourite sayings is: "un-coachable children grow up to be un-employable adults." Don't ask me who said that. I'm the type of person who forgets your name as soon as my hand leaves the handshake. The saying is so true though. I have seen it by watching parents and managing staff for years. Don't do that to your children people. It's more important to let your child screw something up and be there to show them how to fix it than to try and prevent them from ever making the mistake in the first place. That's just one rookie ginger father's opinion... Maybe I'll be wrong and I'm sure you'll hear about it on here.</p>
+
+                    <p class="text-faded">Back to Katie and her fabulous belly. Katie and I probably piss people off once in a while about our health and nutrition craziness. We believe that the food we eat and how we cook it needs to be as close to the source as possible (except for Cadbury Mini Eggs... Mini Eggs are exempt). Maybe it's just a coincidence but people who know me know that I used to be a pretty intense athlete and in great shape. Then I went to university, quit competitive paddling and everything went to shit. The thing is, besides being a little squishier in the abdomen and breathing heavier going up a flight of stairs, I have managed to maintain the same weight for the last 10 years. I attribute that strongly to our diet. Anyways, I'm not going to bore you with a health and nutrition rant, I just wanted to mention that because it is what we believe made Katie's pregnancy pretty straight forward. You don’t have to drastically change your lifestyle when you’re pregnant unless your lifestyle includes sniffing bath salts, smoking crack or binge drinking with sororities on the weekends. It took forever for her belly to show, the mood swings were relatively non-existent (until the final month or so), there were no weird cravings (i.e. anchovies and Sour Patch Kids), she was still pretty active and generally pleasant to be around (mind blown?). We always got a kick out of how people become very inconsiderate when they make comments to a pregnant woman. For example: "Holy shit, you are getting huge." "Oh man, are you carrying twins?" Thank god Katie had some self esteem or I would have come home to her crying in the corner surrounded by a bunch of Lipozene cartons and chocolate bar wrappers. It is what I like to call "nonversation." Sorry, unfortunately I can't copyright that because I did not come up with it. Working in retail you develop a strong aversion to "nonversation." It is when people are so socially stunted that when they meet with you they can't carry a normal conversation and end up mustering: "so how about that weather out there, only in Nova Scotia eh?!" "Working hard or hardly working, muhahahah?" "Did you see that Montreal game last night? Leafs fans are laughing now I'm sure." I always stay professional in these dire situations even though I want to grab the nearest stapler, dip it in some vinegar, and... I'll let you figure out the rest of that sentence. Then you have those assholes who find out, I'm staying at home while Katie is going to bring home the bacon, saying things like: "That's the least he can do since you carried a baby for nine gruelling months (like I was some useless piece of shit, drooling while I  stared out into space for nine months)." Or the ones that look at you like you have pickles for ears while awkwardly saying: "Well, good for you (like I'm attempting to find the cure for cancer or something)." Well, telling a pregnant woman she is large is up there with some of the worst nonversation.</p>
+
+                    <p class="text-faded">Now that I think about it, some of the worst parts of being pregnant are the other people. Hey, maybe her pregnancy went so well because her husband is so amazing and cautious (because he knew that one false move she would do as the Black Widow spider does). Well there were two such moments where I, in retrospect, may have slipped.</p>
+
+                    <h3 class="header-text">Moment #1: The Peanut Butter Burger Massacre</h3>
+
+                    <p class="text-faded">This slip up was very early on (and I mean early). It was actually soon after the story of my last post. My wife wanted to keep the news of her being pregnant under lock and key until the end of first trimester (oh, in case you haven't realized, I hate the term "we" are pregnant it just makes me feel weird like I have to start wearing maternity clothes or something). I can understand why she felt this way, with the prevalence of miscarriages and not wanting to have to share such a loss with the world. I just think she kept forgetting that I had super sperm and “there ain't no way that was gonna happen…" Anyways, here we are (my best mate Josh and I), me just finding out I was going to have my first baby, super excited and my best friend had no idea. You know I had to tell him. Did I say this was only a few days after we found out from that bucket full of pregnancy tests? Josh and I were on our way to a quaint little restaurant in Halifax by the name of Darrell's. They are famous for their unsettlingly delicious "peanut butter burger." It is exactly as it sounds. The same as any other burger, dressed the way you want, with a glob of creamy smooth peanut butter on the bun. I was skeptical at first too, but Mmmmmm mmmmm. Josh and I are just arriving at the restaurant and decide to wait in the big ass lineup. Katie calls me and asks how things are going and for some stupid reason I decide to tell her that Josh wants to celebrate our news. She be all like: “News?! What news!? I am not even sure she took a breath throughout the next 10 minutes as she vocally abused me. It was so loud that the pair of dudes in front of us in line turned around and gave me the classic: duuuude, we are so sorry to hear you have been castrated, hopefully she is good in the sack, look. Once the peanut butter burger massacre was finished we joyously forgot the events of the past and mowed down our burgers in delight. Oh, you thought that was the end of it, hahahaha NO. Josh is like the Antwerp Diamond Centre Vault when it comes to keeping secrets. So much so that when I told him he absolutely could not tell anyone my news (for the sake of my well-being), he did not even tell his fiancee until she found out he didn’t. The secret-keeping-code he lives by is so ingrained that until this day I am sure he still doesn't understand why his now current wife was so upset (it was dicey whether or not they were even going to get married due to this… just kidding but seriously if you ever have a secret you need to get off your chest just talk to Josh). We all survived the peanut butter burger massacre and lived to tell the tale.</p>
+
+                    <h3 class="header-text">Moment #2: The Watermelon Incident</h3>
+
+                   	<p class="text-faded">So, we have finally arrived at the watermelon incident! Besides the very early slip-up, I did pretty good up until the last month of Katie’s pregnancy. During this time was when Katie started showing some of the more traditional pregnancy symptoms. Super tiredness, super hungriness (or as I likes to call it: prangry &copy), super absentmindedness (or as Josh likes to call it: placenta brain &copy), and super moodiness. I think the problem here was that I was getting used to how smooth the pregnancy was going that I slipped and fell into a pile of an argument with my plump-ripe wifey. It was such an un-important, stupid argument that neither one of us even remember what it was about (probably about whether or not Icelanders consume more Coca-Cola per Capita than any other nation). The premise of the argument is not important though, the events that unfolded next would change how I viewed pregnancy for the rest of my days. I tend to poke the bear when I get frustrated in an argument and say anything that will just set her off (I know: “Evan you are so much smarter than that”). This trait was even more of an issue when my beautiful wife couldn’t even bend over to put on her shoes. Needless to say, I poked mother bear while she was munching out on a watermelon, cut in half, in a tiny bowl. I was standing on the other side of the room and I saw the flames in her eyes, steam exiting her ears and it was in slow motion. The watermelon, bowl and all, floated ever so slightly into the air like a bullet followed by the small explosion of the gun powder. It zipped past my head with a whistling sound and exploded all over her Macbook and wall behind me. I was in so much shock that I went mute, put on my shoes and left to get cat litter so that our cats would love us again. There it is folks. That is the gist of Katie’ pregnancy. We both survived and are stronger because of it.</p>
+
+                	<h4>Peace out!</h4>
+
+					<div class="thumbnail">
+  						<img src="../img/portfolio/little-fam.jpg" alt="happy family">
+  						<div class="caption">
+                            <h3>Family Photo Shoot</h3>
+                            <p>See, I told you we made it through pregnancy unscathed...</p>
+  						</div>
+					</div>
+
+                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
+
+                </div>
+
+<!-- ADDITIONAL BLOG POSTS ================================================================================================================================================ -->
+                <div class="col-md-4 text-center">
+                    <h2>You May Also Like...</h2>
+                    <h3>Click the images below</h3>
+
+                    <!-- Img trigger modal -->
+                    <div class="thumbnail">
+                        <img class="img-responsive" alt="post 1 image" src="../img/portfolio/announcement.jpg" data-toggle="modal" data-target="#myModal-1">
+                        <div class="caption">
+                            <h3>"Shit, I'm Pregnant..."</h3>
+                            <h4>March 20<sup>th</sup> 2016</h4>
+                            <hr>
+                            <p>It’s early April of 2015. My wife Katie and I are on one of our leisurely drives around town looking at random houses while dreaming, critiquing, and scoffing at the sites...</p>
+                        </div>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="myModal-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="color:black;">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                    <h3 class="modal-title" id="myModalLabel">"Shit, I'm Pregnant..."</h3>
+                                    <h4>March 20<sup>th</sup> 2016</h4>
+
+                                </div>
+                                <div class="modal-body">
+
+                                    <h5>Click <a href="blog-1.php">here</a> for full article or read "text-only" version below</h5>
+                                    <hr>
+
+                                    <p>It’s early April of 2015. My wife Katie and I are on one of our leisurely drives around town looking at random houses while dreaming, critiquing, and scoffing at the sites. I am not sure if this is a normal thing couples do, but when we  have nothing better to do some evenings, we like to hop in our late 2012 Nissan Rogue and drive through neighbourhoods. Sometimes when we see a beautiful house we even slow down, take pictures as the SUV crawls by, and then speed away before people call the cops on us. So far we have not had any jail time so I’d say we are professionals.</p>
+
+                                    <p>On this particular night in April, we were on our way home and we were having a somewhat civil argument. Before I get into details of the argument I will give you a quick run down of our history. I do not want you to think our relationship is doomed because of a silly fight which turned out to be one of the best nights of our relationship (oh the suspense, I know!).</p>
+
+                                    <p>I met Katie in high school in a town/ suburb/ city/ (who knows what the fuck to classify the shit hole where I grew up). Google: “Sack-Vegas” and the first hit will give you a good idea of my roots. Yes that is a “Welcome to the Wonderful Sack-Vegas” sign and yes it was actually a real sign placed by the highway leaving town, which made local the news before it was taken down.
+                                    Go to YouTube and search: “Lower Sackville Promo” and you will find a wonderful video with a very accurate description of my hometown (the narrative is to die for).
+                                    You know what… screw searching for these things… it is 2016 and I am not a moron (some might disagree) so check out the link and embedded video below. I can just see my aunt Juanita saying: “Evan, you said to Google Sack-Vegas and now all of my Facebook friends see my new profile picture of what looks to be a nice, well-formed pair of breasts in the latest Victoria’s Secret bra until they click on it and reveal a hairy, obese man’s ass-crack in a pair of polka dot bros (Seinfeld reference).” Or my mother Ethel saying: “Evan, you said to look-up Lower Sackville Promo on YouTube and now a man named Rasheed from Windows said my computer was infected with viruses and I no longer have a left kidney.” I’ll save you the trouble… </p>
+
+                                    <p>Sorry about that tangent, now back to the main story: we met at Sackville High. I was fresh out of a relationship and my friend, who never knew how to stay away from the “friend-zone,” devised a new (failure) of a scheme to pickup a lady-friend whom he had eyes for. This lady-friend turned out to be friends with my now current and only wife. All he had to do was tell me I was on the list of who she found cute in high school and I was like “BAM! Cat in the bag!” Triple date time with two of my good lads. It was Halloween night and we went out to see one of the worst movies to franchises in existence: “Saw.” You know, the first one, the one where the guy uses a jig-saw to cut off his hand to escape the game. My 4 year old nephew can act better than that for a Klondike bar. The movie went well, my two buddies bitched out and went home afterwards, and Katie had a fabulous idea to keep the night young. “Let’s go trick or treating.” (to many of my friend’s and families’ dismay my trick or treating went on until I was into my early 20s).</p>
+
+                                    <p>So here I am stuck with Katie and two other girls, by myself, trick or treating (i know, rough life, eh?). Problem was I did not have anything to wear, come to think of it, none of us did. We started at Katie’s house and she rummaged through her things and whipped together four costumes. I only remember her costume and mine because obviously they were the two best ones. Katie’s costume was a simple pair of white long john’s and rubber boots and mine ended up being a dress with a tight, pointy elf hat (go figure…). In retrospect the next thing that happened turned out to be a short and meaningful moment in which I will never forget. On our way out to bag ourselves a good bounty of candy I had my first interaction with Katie’s father. Her mother loved me right away, but that is just the type of lovely and personable person she is. Katie’s dad on the other hand is a more reserved individual who believes in the more old school ways of father son-in-law relationships. Truth is he loves his two daughters more than anything in the world and if anyone hurt them they would probably be shot (he has even shown me the collection of guns and bullets he owns and loves to take me to the shooting range, just he and myself and no witnesses). But hey, now that I am a father of a beautiful innocent baby girl, I can completely understand. Now that I have made it into the inner circle I know most of it is a front and deep down he is a big softy. Any who… I think that was anther small tangent… maybe I have a problem. So this moment I will never forget was when I came out of Katie’s room with two of her girlfriends, wearing a green (I think floral patterned) dress with a tight red and yellow elf cap. As I was walking out of the house I walked past the master bedroom where Katie’s father was laying down watching a show. At the time I did not think anything of it because I had no idea who this man was, but in retrospect I am lucky I have been around this long. It is nerve-racking to meet the girlfriend’s father in the first place, but try doing it while dressed up like an idiot, with sweaty palms and a goofy smile on your face. Luckily there was only a quick, “Who the fuck is this dumbass?!” moment, where he was caught off guard just as much as I was and all we could both muster was a quick: “Hey!” with a nod. Come to think of it, I got off easy with her father on several occasions over the last decade due to catching him off guard. Asking him if I could marry his daughter was another one of these occasions, but I will spare you another tangent and mention that in a future blog post. I know, pretty insignificant and small moment there, big guy… but if you guys know Katie’s father or if I described him well enough, I am sure you get how huge that split second was. I doubt in that moment he thought he was seeing the man of his daughter’s dreams.</p>
+
+                                    <p>The rest of the evening went very well. Katie was the first down to earth, funny, sexy girl I had ever met. I was beginning to think that a girl such as this, in Lower Sackville (Nova Scotia, Canada), was a unicorn (see one of my favourite videos describing a unicorn below). </p>
+
+                                    <p>To be honest, I only went on the date as a favour to my “friend-zone” buddy as I was not looking for anything serious at the time. I think the moment I knew this girl was worth a second glance was while we were walking up to our first house for candy. As we were walking, I did not realize (sorry Katie and your family), but I was staring at her perfectly formed, upside-down heart shaped booty being cradled by the tight long-johns like a mother holding a baby in each arm. I realized I was in a trance when Katie looked back at me and boldly said: “Well if you’re going to stare at it you might as well grab it,” to which I giddyingly &copy; obliged. At that moment was the first time I had realized I met my match.</p>
+
+                                    <p>Skip ahead 11 years, past many many more stories, trials and tribulations; back to April 2015. Don’t worry, I am sure the many details of those 11 years will come out in future tangents. Here we are again, arguing about when and if we will ever be ready to start a family (and this is not the first time we had this argument, but it is a memorable one for sure). Truth is, there is never a perfect time. I have known my whole life that I wanted to start a family someday. I would even have 15 kids if it were financially and mentally feasible (when you are not living on a farm). Katie definitely wanted a child or two, but was a little more apprehensive about it than I. You already know my wife has a very endearing potty mouth, but one other thing you do not know is that she has OCD (or C-D-O as she lamely likes to call it because that is alphabetical order). She likes to have every detail planned out and organized. The problem with this and having a child is that they clash. If you are truly serious about diving into the wonderful world of being a parent then you need an ounce of impulsiveness and faith that everything will be alright. When you are up at 4 am, after 4 weeks straight of your baby screeching, whilst knowing you need to be up in an hour to drive to your place of work (so that you can muster out a good zombified 8 hours of bullshit), you definitely need to have faith that everything will be alright. This lackadaisical demeanour is a lot easier for a fly-by-the-seat-of-your-pants type of guy guy like myself, but not so much for a OCD planner. Needless to say, we had some clashing of opinions about when this family thing was gong to start and this night in April 2015 was no exception. We didn’t get anywhere in our argument that night. We ended up storming into the house together and going into separate rooms. I was beginning to wonder if I would be needing Viagra by the time she would be ready, but also knowing I would make that a reality if I kept pushing. I am out in the living room watching a show when I hear Katie having a maniacal laughing fit in the bathroom and calling out my name. After I check that all of the knives are in the knife block and my gun is locked away, I cautiously walk towards the bathroom. She whips up a pregnancy test (in which I dive out of the way of, in fear of urine landing on my face) and there are two blue lines. Oh and you know she ain’t leaving it at one test with all of the false positives running around out there. She opens a drawer and out fall ten more tests all with the same two blue lines (ok, ten is a slight exaggeration for effect, it was probably only one more, but I wouldn’t be surprised if she had a drawer somewhere).</p>
+
+                                    <p>All is forgotten of the aforementioned argument that night, we hold each other with tears in our eyes and laughing due to the irony of what just happened. I may have mustered out: “guess we have no choice now,” as I look nervously over her shoulder at the pair of scissors behind her back….</p>
+
+                                    <p>Just kidding (about the scissors)!</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="light">
+
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                     <!-- Img trigger modal -->
                     <div class="thumbnail">
                         <img class="img-responsive" alt="post 3 image" src="../img/portfolio/peanut.jpg" data-toggle="modal" data-target="#myModal-3">
@@ -426,8 +548,11 @@
 
                                     <p><strong>P.S.</strong> I now understand why we have no recollection of our births. That shit is traumatic.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -479,8 +604,11 @@
 
                                     <p>You will soon see that our little Bambino is one tough SOB and she was damn good at getting me off work, un-planned (arriving a week early and now with a potential health issue). I would prefer to get off work for other reasons, but thank you dear. The holidays were now creeping up, we had just been admitted to the IWK (the bomb hasn't been dropped yet), and we don't even realize how our lives will change, yet again.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -526,8 +654,11 @@
 
                                     <p>Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -589,6 +720,7 @@
 
                                     <p>That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -708,6 +840,8 @@
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -735,11 +869,48 @@
 
                         ?>
 
+<<<<<<< HEAD
                 </div>
             </div>
         </div>
     </section>
 
+<!-- RECOMMENDED RESOURCES ================================================================================================================================================ -->
+    <section>
+        <div class="container-fluid">
+            <h2 class="text-center">Highly Recommended Resources for my Readers</h2>
+            <hr>
+            <div class="row">
+                <div class="col-lg-6 text-center">
+                    <div class="thumbnail">
+                        <a href="http://www.sickboypodcast.com/"><img class="img-responsive" alt="sickboy podcast banner" src="../img/portfolio/sickboy.jpg"></a>
+                        <div class="caption">
+                            <h3>Sickboy Podcast</h3>
+                            <hr>
+                            <p>To say the three dudes on this podcast are entertaining is a gross understatement. I started listening to their podcast before Isla was diagnosed with her disease. I was intrigued by the story of one of the hosts actually living with Cystic Fibrosis and having seen him on television in the past; I knew the podcast would be hilarious. The three hosts of Sickboy provide a disambiguation of sickness ranging from adult circumcision to depression to end stage cancer. They take a no holds barred approach and discuss everything under the sun with their guests whom are inflicted with an illnesses. Click the <a href="http://www.sickboypodcast.com/"><strong>logo</strong></a> above to be directed to their site where you can listen to clips, signup on iTunes, follow on Twitter, Facebook, and Instagram!</p>
+                        </div>
+                    </div>
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
+                </div>
+
+                <div class="col-lg-6 text-center">
+                    <div class="thumbnail">
+                        <a href="https://healthunlocked.com/"><img class="img-responsive" alt="health unlocked banner" src="../img/portfolio/health-unlocked.png"></a>
+                        <div class="caption">
+                            <h3>Health Unlocked</h3>
+                            <hr>
+                            <p>The forum scene on the internet, especially Facebook, for diseases is very dire to say the least. There is a bunch of negativity, misinformation and people just looking for a handout. I stumbled upon Health Unlocked and finally found legitimate information on Biliary Atresia. The site covers tons of other disorders as well, so if you're looking for information or support on most diseases, you'll find it here. This site has a great forum where Katie and I discovered many other parents going through the exact same thing as us. Please click the <a href="https://healthunlocked.com/"><strong>logo</strong></a> above to be directed to their site!</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+<<<<<<< HEAD
+=======
 <!-- RECOMMENDED RESOURCES ================================================================================================================================================ -->
     <section>
         <div class="container-fluid">
@@ -772,6 +943,7 @@
         </div>
     </section>
 
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 <!-- FACEBOOK COMMENTS ================================================================================================================================================ -->
     <section class="bg-dark">
         <div class="container-fluid">

@@ -43,8 +43,13 @@
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
+<<<<<<< HEAD
 
     <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
+=======
+    
+    <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
@@ -119,15 +124,25 @@
                 <!-- FACEBOOK -->
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-4.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
+<<<<<<< HEAD
                 <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-4.php&title=Let%27s%20start%20over%2E%20We%20left%20off%20with%20Katie%20spitting%20out%20a%20baby%20human%20from%20her%20Hoo%20Hah%2E%20Why%20not%20start%20there?%20Check%20out%20the%204th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+=======
+                <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-4.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22The%20Bomb%20Drop%20Part%20I%22%20on%20http://www.gigglesnshit.com/pages/blog-4.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-4.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
+<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-4.php&media=http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg&description=Let%27s%20start%20over%2E%20We%20left%20off%20with%20Katie%20spitting%20out%20a%20baby%20human%20from%20her%20Hoo%20Hah%2E%20Why%20not%20start%20there?%20Check%20out%20the%204th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-4.php&media=http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg&title=Let%27s%20start%20over%2E%20We%20left%20off%20with%20Katie%20spitting%20out%20a%20baby%20human%20from%20her%20Hoo%20Hah%2E%20Why%20not%20start%20there?%20Check%20out%20the%204th%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+=======
+                <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-4.php&media=http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
+                <!-- LINKEDIN -->
+                <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-4.php&media=http://www.gigglesnshit.com/img/portfolio/the-bomb-1.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
             </ul>
@@ -262,18 +277,31 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 text-center">
+<<<<<<< HEAD
                 	<h1 itemprop="name">"The Bomb Drop: Part I"</h1>
                     <h2 class="section-heading">April 11<sup>th</sup>, 2016</h2>
 
                     <hr class="light">
 
                     <img itemprop="image" class="img-responsive" src="../img/portfolio/the-bomb-1.jpg" alt="blog post banner">
+=======
+                	<h2>"The Bomb Drop: Part I"</h2>
+                    <h3 class="section-heading">April 11<sup>th</sup>, 2016</h3>
+
+                    <hr class="light">
+
+                    <img class="img-responsive" src="../img/portfolio/the-bomb-1.jpg" alt="blog post banner">
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                     <hr class="light">
 
                     <p class="text-faded">So here we are. It is Monday April 11th (5 days before Katie's 28th birthday. Had to say that in this post as she never remembers her age and it is scary). It will be Isla's third trip to see her paediatrician. This Thursday will be her zillionth time seeing her GI specialist and blood clinic (I know, zillion is an exaggeration, but it's been a lot). The thing is, am I going to tell you why? Of course not! You will have to read on punk! Oooohhh, bomb drop, no he didn't? Yes he did! Title drop... I digress. </p>
 
+<<<<<<< HEAD
                     <p itemprop="description" class="text-faded">Let's start over. We left off with Katie spitting out a baby human from her Hoo Hah. Why not start there? We are now in the maternity unit at the Valley Regional Hospital and being treated like royalty for some reason (maybe it's because Katie is the big bad boss lady and scares the crap out of everyone? Maybe not...). Everything is going fairly smooth.  I mean, those fuckers don't sleep, but other than that everything is swell. We had regular visits from the paediatrician (not the one mentioned above, but the hospital one. I'll do my best to keep things straight for ya over the next couple of posts (there are a lot of professionals so keep up!). I know their job is important and all, but it seems the gist of what they do is come into your room while you are stress ridden and lacking sleep. Next, they mosey on over to your FINALLY sleeping baby, whip off their onesie, start poking at their bellies, rotating their legs ever so slightly, wake the damn baby up, and then leave the room with an evil chuckle. I'm just kidding, they're great. Isla had frequent visits from nurses and blood collection. She got her little heel poked and squeezed in order to check a battery of different things. She took that poke like a champ, too. That's important to me, because I'm the biggest pansy around when it comes to needles. I can handle blood, several broken bones, ruptured appendix, etc, but when that little sliver of metal pierces my body, this 6' 3" lug collapses like a ton of bricks. Yes I know, I'm a big baby. There's feeble little old ladies that go in on a regular basis whom are so cool with those torture devices that they almost take it from the technician’s hand and poke themselves. I had to have at least one flaw yah know!</p>
+=======
+                    <p class="text-faded">Let's start over. We left off with Katie spitting out a baby human from her Hoo Hah. Why not start there? We are now in the maternity unit at the Valley Regional Hospital and being treated like royalty for some reason (maybe it's because Katie is the big bad boss lady and scares the crap out of everyone? Maybe not...). Everything is going fairly smooth.  I mean, those fuckers don't sleep, but other than that everything is swell. We had regular visits from the paediatrician (not the one mentioned above, but the hospital one. I'll do my best to keep things straight for ya over the next couple of posts (there are a lot of professionals so keep up!). I know their job is important and all, but it seems the gist of what they do is come into your room while you are stress ridden and lacking sleep. Next, they mosey on over to your FINALLY sleeping baby, whip off their onesie, start poking at their bellies, rotating their legs ever so slightly, wake the damn baby up, and then leave the room with an evil chuckle. I'm just kidding, they're great. Isla had frequent visits from nurses and blood collection. She got her little heel poked and squeezed in order to check a battery of different things. She took that poke like a champ, too. That's important to me, because I'm the biggest pansy around when it comes to needles. I can handle blood, several broken bones, ruptured appendix, etc, but when that little sliver of metal pierces my body, this 6' 3" lug collapses like a ton of bricks. Yes I know, I'm a big baby. There's feeble little old ladies that go in on a regular basis whom are so cool with those torture devices that they almost take it from the technician’s hand and poke themselves. I had to have at least one flaw yah know!</p>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                     <p class="text-faded">It's amazing how long you can just stare at this wondrous creation of yours. I'm serious, MGM or Fox needs to jump on this opportunity and make a movie/time-lapse video of some random baby being a baby. That shit would be a hit!! We were in the hospital for two days. These two days felt a lot longer due to our sleeping arrangements. When you're sleeping on a rickety old cot made for a little person and a blanket that's basically the size of a bath towel; it ain’t fun. It was all worth it in the end, though, or at least we kept telling ourselves that... Flash forward to an extremely sleepless night during the first week we brought Isla home. She was fussy as all hell and we were at our wits end with ways to settle her. Both of us were sitting down, hair standing at its ends, panting, and Katie looks up at me to say: "I can't do this anymore." (by the way, Katie is someone who needs all of her sleep in order to function properly so you can imagine the shape she was in). I stood up and abruptly said: "Alright, pack up her things, let's give her back!" That's basically my role in our relationship and it has been working quite well for the last 12 years. When Katie is being a drama queen, I say something stupid to lighten the mood. </p>
 
@@ -296,7 +324,11 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
                     <p class="text-faded">You will soon see that our little Bambino is one tough SOB and she was damn good at getting me off work, un-planned (arriving a week early and now with a potential health issue). I would prefer to get off work for other reasons, but thank you dear. The holidays were now creeping up, we had just been admitted to the IWK (the bomb hasn't been dropped yet), and we don't even realize how our lives will change, yet again.</p>
 
+<<<<<<< HEAD
                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
+=======
+                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                 </div>
 
@@ -352,9 +384,12 @@ Katie had researched just about everything baby related prior to Isla's arrival.
                                     <p>All is forgotten of the aforementioned argument that night, we hold each other with tears in our eyes and laughing due to the irony of what just happened. I may have mustered out: “guess we have no choice now,” as I look nervously over her shoulder at the pair of scissors behind her back….</p>
 
                                     <p>Just kidding (about the scissors)!</p>
+<<<<<<< HEAD
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
                                     
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -408,8 +443,11 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
                                     <p>Peace out!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -479,8 +517,11 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
                                     <p><strong>P.S.</strong> I now understand why we have no recollection of our births. That shit is traumatic.</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -526,8 +567,11 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
                                     <p>Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -589,6 +633,7 @@ Katie had researched just about everything baby related prior to Isla's arrival.
 
                                     <p>That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
+<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -708,6 +753,8 @@ Katie had researched just about everything baby related prior to Isla's arrival.
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
+=======
+>>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
