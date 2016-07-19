@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
->
 
 <head>
 
@@ -40,21 +39,18 @@
     <meta property="og:url" content="http://www.gigglesnshit.com/pages/blog-1.php" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Shit, I'm Pregnant" />
-<<<<<<< HEAD
     <meta property="og:description" content="Evan, you said to look-up Lower Sackville Promo on YouTube and now a man named Rasheed from Windows said my computer was infected with viruses and I no longer have a left kidney. I’ll save you the trouble... Check out the 1st post on Giggles N Shit Blog!" />
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/announcement.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
 
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->
-=======
     <meta property="og:description" content="Evan, you said to look-up Lower Sackville Promo on YouTube and now a man named Rasheed from Windows said my computer was infected with viruses and I no longer have a left kidney. I’ll save you the trouble… Check out the 1st post on Giggles N Shit Blog!" />
     <meta property="og:image" content="http://www.gigglesnshit.com/img/portfolio/announcement.jpg" />
     <meta property="fb:app_id" content="970981369664540"/>
     <meta property="og:site_name" content="Giggles N Shit Blog"/>
     
 <!-- TWITTER SHARE CARD - also uses open graph data ================================================================================================================================================ -->    
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gigglesshitblog" />
     <meta name="twitter:creator" content="@evanmarshall" />
@@ -129,25 +125,19 @@
                 <!-- FACEBOOK -->
                 <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gigglesnshit.com/pages/blog-1.php" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <!-- REDDIT -->
-<<<<<<< HEAD
                 <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-1.php&title=%22Evan%2C%20you%20said%20to%20lookup%20Lower%20Sackville%20Promo%20on%20YouTube%20and%20now%20a%20man%20named%20Rasheed%20from%20Windows%20said%20my%20computer%20was%20infected%20with%20viruses%20and%20I%20no%20longer%20have%20a%20left%20kidney%2E%22Check%20out%20the%201st%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
-=======
                 <li><a href="https://www.reddit.com/submit?url=http://www.gigglesnshit.com/pages/blog-1.php&title=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-lg fa-reddit"></i></a></li>
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- TWITTER -->
                 <li><a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20Blog%20Post%2C%20%22Shit%20I%27m%20Pregnant%22%20on%20http://www.gigglesnshit.com/pages/blog-1.php&hashtags=gigglesnshitblog&via=gigglesshitblog" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <!-- GOOGLE PLUS -->
                 <li><a href="https://plus.google.com/share?url=http://www.gigglesnshit.com/pages/blog-1.php" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-lg fa-google-plus"></i></a></li>
                 <!-- PINTEREST -->
-<<<<<<< HEAD
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-1.php&media=http://www.gigglesnshit.com/img/portfolio/announcement.jpg&description=%22Evan%2C%20you%20said%20to%20lookup%20Lower%20Sackville%20Promo%20on%20YouTube%20and%20now%20a%20man%20named%20Rasheed%20from%20Windows%20said%20my%20computer%20was%20infected%20with%20viruses%20and%20I%20no%20longer%20have%20a%20left%20kidney%2E%22Check%20out%20the%201st%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-1.php&media=http://www.gigglesnshit.com/img/portfolio/announcement.jpg&title=%22Evan%2C%20you%20said%20to%20lookup%20Lower%20Sackville%20Promo%20on%20YouTube%20and%20now%20a%20man%20named%20Rasheed%20from%20Windows%20said%20my%20computer%20was%20infected%20with%20viruses%20and%20I%20no%20longer%20have%20a%20left%20kidney%2E%22Check%20out%20the%201st%20post%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
-=======
                 <li><a href="https://www.pinterest.com/pin/create/button/?url=http://www.gigglesnshit.com/pages/blog-1.php&media=http://www.gigglesnshit.com/img/portfolio/announcement.jpg&description=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on Pinterest" target="_blank" class="btn btn-pinterest"><i class="fa fa-lg fa-pinterest"></i></a></li>
                 <!-- LINKEDIN -->
                 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.gigglesnshit.com/pages/blog-1.php&media=http://www.gigglesnshit.com/img/portfolio/announcement.jpg&title=Giggles%20N%20Shit%20Blog&summary=Enjoy%20a%20Good%20Laugh%20on%20Giggles%20N%20Shit%20Blog" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-lg fa-linkedin"></i></a></li>
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <!-- BACK TO TOP -->
                 <li style="color:black;"><a href="#page-top" class="back-to-top"><i class="fa fa-lg fa-arrow-circle-up"></i></a> back2top</li>
             </ul>
@@ -283,27 +273,17 @@
             <div class="row">
                 <div class="col-md-8 text-center">
 
-<<<<<<< HEAD
                 	<h1 itemprop="name">"Shit, I'm Pregnant..."</h1>
                     <h2 class="section-heading">March 20th 2016</h2>
 
                     <hr class="light">
 
                     <img itemprop="image" class="img-responsive" src="../img/portfolio/announcement.jpg" alt="blog post banner">
-=======
-                	<h2>"Shit, I'm Pregnant..."</h2>
-                    <h3 class="section-heading">March 20th 2016</h3>
-
-                    <hr class="light">
-
-                    <img class="img-responsive" src="../img/portfolio/announcement.jpg" alt="blog post banner">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 
                     <hr class="light">
 
                     <p class="text-faded">It’s early April of 2015. My wife Katie and I are on one of our leisurely drives around town looking at random houses while dreaming, critiquing, and scoffing at the sites. I am not sure if this is a normal thing couples do, but when we  have nothing better to do some evenings, we like to hop in our late 2012 Nissan Rogue and drive through neighbourhoods. Sometimes when we see a beautiful house we even slow down, take pictures as the SUV crawls by, and then speed away before people call the cops on us. So far we have not had any jail time so I’d say we are professionals.</p>
 
-<<<<<<< HEAD
                     <p itemprop="description" class="text-faded">On this particular night in April, we were on our way home and we were having a somewhat civil argument. Before I get into details of the argument I will give you a quick run down of our history. I do not want you to think our relationship is doomed because of a silly fight which turned out to be one of the best nights of our relationship (oh the suspense, I know!).</p>
 
                     <p class="text-faded">I met Katie in high school in a town/ suburb/ city/ (who knows what the fuck to classify the shit hole where I grew up). Google: “Sack-Vegas” and the first hit will give you a good idea of my roots. Yes that is a “Welcome to the Wonderful Sack-Vegas” sign and yes it was actually a real sign placed by the highway leaving town, which made local the news before it was taken down.
@@ -345,51 +325,7 @@
                     <p class="text-faded">Just kidding (about the scissors)!</p>
 
                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
-=======
-                    <p class="text-faded">On this particular night in April, we were on our way home and we were having a somewhat civil argument. Before I get into details of the argument I will give you a quick run down of our history. I do not want you to think our relationship is doomed because of a silly fight which turned out to be one of the best nights of our relationship (oh the suspense, I know!).</p>
-
-                    <p class="text-faded">I met Katie in high school in a town/ suburb/ city/ (who knows what the fuck to classify the shit hole where I grew up). Google: “Sack-Vegas” and the first hit will give you a good idea of my roots. Yes that is a “Welcome to the Wonderful Sack-Vegas” sign and yes it was actually a real sign placed by the highway leaving town, which made local the news before it was taken down.
-                    Go to YouTube and search: “Lower Sackville Promo” and you will find a wonderful video with a very accurate description of my hometown (the narrative is to die for).
-                    You know what… screw searching for these things… it is 2016 and I am not a moron (some might disagree) so check out the link and embedded video below. I can just see my aunt Juanita saying: “Evan, you said to Google Sack-Vegas and now all of my Facebook friends see my new profile picture of what looks to be a nice, well-formed pair of breasts in the latest Victoria’s Secret bra until they click on it and reveal a hairy, obese man’s ass-crack in a pair of polka dot bros (Seinfeld reference).” Or my mother Ethel saying: “Evan, you said to look-up Lower Sackville Promo on YouTube and now a man named Rasheed from Windows said my computer was infected with viruses and I no longer have a left kidney.” I’ll save you the trouble… </p>
-
-                    <hr class="light" style="width:50%;">
-
-                    <p><a href="http://sack-vegas.com/" style="color:black;"><strong>sack-vegas.com</strong></a></p>
-
-                    <hr class="light" style="width:50%;">
-
-                    <div class="embed-responsive-item">
-                    	<iframe width="100%" height="315" src="https://www.youtube.com/embed/uMyR9RRYSrM" frameborder="0" allowfullscreen></iframe>
-                  	</div>
-
-                    <hr class="light" style="width:50%;">
-
-                    <p class="text-faded">Sorry about that tangent, now back to the main story: we met at Sackville High. I was fresh out of a relationship and my friend, who never knew how to stay away from the “friend-zone,” devised a new (failure) of a scheme to pickup a lady-friend whom he had eyes for. This lady-friend turned out to be friends with my now current and only wife. All he had to do was tell me I was on the list of who she found cute in high school and I was like “BAM! Cat in the bag!” Triple date time with two of my good lads. It was Halloween night and we went out to see one of the worst movies to franchises in existence: “Saw.” You know, the first one, the one where the guy uses a jig-saw to cut off his hand to escape the game. My 4 year old nephew can act better than that for a Klondike bar. The movie went well, my two buddies bitched out and went home afterwards, and Katie had a fabulous idea to keep the night young. “Let’s go trick or treating.” (to many of my friend’s and families’ dismay my trick or treating went on until I was into my early 20s).</p>
-
-                    <p class="text-faded">So here I am stuck with Katie and two other girls, by myself, trick or treating (i know, rough life, eh?). Problem was I did not have anything to wear, come to think of it, none of us did. We started at Katie’s house and she rummaged through her things and whipped together four costumes. I only remember her costume and mine because obviously they were the two best ones. Katie’s costume was a simple pair of white long john’s and rubber boots and mine ended up being a dress with a tight, pointy elf hat (go figure…). In retrospect the next thing that happened turned out to be a short and meaningful moment in which I will never forget. On our way out to bag ourselves a good bounty of candy I had my first interaction with Katie’s father. Her mother loved me right away, but that is just the type of lovely and personable person she is. Katie’s dad on the other hand is a more reserved individual who believes in the more old school ways of father son-in-law relationships. Truth is he loves his two daughters more than anything in the world and if anyone hurt them they would probably be shot (he has even shown me the collection of guns and bullets he owns and loves to take me to the shooting range, just he and myself and no witnesses). But hey, now that I am a father of a beautiful innocent baby girl, I can completely understand. Now that I have made it into the inner circle I know most of it is a front and deep down he is a big softy. Any who… I think that was anther small tangent… maybe I have a problem. So this moment I will never forget was when I came out of Katie’s room with two of her girlfriends, wearing a green (I think floral patterned) dress with a tight red and yellow elf cap. As I was walking out of the house I walked past the master bedroom where Katie’s father was laying down watching a show. At the time I did not think anything of it because I had no idea who this man was, but in retrospect I am lucky I have been around this long. It is nerve-racking to meet the girlfriend’s father in the first place, but try doing it while dressed up like an idiot, with sweaty palms and a goofy smile on your face. Luckily there was only a quick, “Who the fuck is this dumbass?!” moment, where he was caught off guard just as much as I was and all we could both muster was a quick: “Hey!” with a nod. Come to think of it, I got off easy with her father on several occasions over the last decade due to catching him off guard. Asking him if I could marry his daughter was another one of these occasions, but I will spare you another tangent and mention that in a future blog post. I know, pretty insignificant and small moment there, big guy… but if you guys know Katie’s father or if I described him well enough, I am sure you get how huge that split second was. I doubt in that moment he thought he was seeing the man of his daughter’s dreams.</p>
-
-                    <p class="text-faded">The rest of the evening went very well. Katie was the first down to earth, funny, sexy girl I had ever met. I was beginning to think that a girl such as this, in Lower Sackville (Nova Scotia, Canada), was a unicorn (see one of my favourite videos describing a unicorn below). </p>
-
-                    <hr class="light" style="width:50%;">
-
-                    <div class="embed-responsive-item">
-                    	<iframe width="100%" height="315" src="https://www.youtube.com/embed/vwbKYcBdVyk" frameborder="0" allowfullscreen></iframe>
-                  	</div>
-
-                    <hr class="light" style="width:50%;">
-
-                    <p class="text-faded">To be honest, I only went on the date as a favour to my “friend-zone” buddy as I was not looking for anything serious at the time. I think the moment I knew this girl was worth a second glance was while we were walking up to our first house for candy. As we were walking, I did not realize (sorry Katie and your family), but I was staring at her perfectly formed, upside-down heart shaped booty being cradled by the tight long-johns like a mother holding a baby in each arm. I realized I was in a trance when Katie looked back at me and boldly said: “Well if you’re going to stare at it you might as well grab it,” to which I giddyingly &copy; obliged. At that moment was the first time I had realized I met my match.</p>
-
-                    <p class="text-faded">Skip ahead 11 years, past many many more stories, trials and tribulations; back to April 2015. Don’t worry, I am sure the many details of those 11 years will come out in future tangents. Here we are again, arguing about when and if we will ever be ready to start a family (and this is not the first time we had this argument, but it is a memorable one for sure). Truth is, there is never a perfect time. I have known my whole life that I wanted to start a family someday. I would even have 15 kids if it were financially and mentally feasible (when you are not living on a farm). Katie definitely wanted a child or two, but was a little more apprehensive about it than I. You already know my wife has a very endearing potty mouth, but one other thing you do not know is that she has OCD (or C-D-O as she lamely likes to call it because that is alphabetical order). She likes to have every detail planned out and organized. The problem with this and having a child is that they clash. If you are truly serious about diving into the wonderful world of being a parent then you need an ounce of impulsiveness and faith that everything will be alright. When you are up at 4 am, after 4 weeks straight of your baby screeching, whilst knowing you need to be up in an hour to drive to your place of work (so that you can muster out a good zombified 8 hours of bullshit), you definitely need to have faith that everything will be alright. This lackadaisical demeanour is a lot easier for a fly-by-the-seat-of-your-pants type of guy guy like myself, but not so much for a OCD planner. Needless to say, we had some clashing of opinions about when this family thing was gong to start and this night in April 2015 was no exception. We didn’t get anywhere in our argument that night. We ended up storming into the house together and going into separate rooms. I was beginning to wonder if I would be needing Viagra by the time she would be ready, but also knowing I would make that a reality if I kept pushing. I am out in the living room watching a show when I hear Katie having a maniacal laughing fit in the bathroom and calling out my name. After I check that all of the knives are in the knife block and my gun is locked away, I cautiously walk towards the bathroom. She whips up a pregnancy test (in which I dive out of the way of, in fear of urine landing on my face) and there are two blue lines. Oh and you know she ain’t leaving it at one test with all of the false positives running around out there. She opens a drawer and out fall ten more tests all with the same two blue lines (ok, ten is a slight exaggeration for effect, it was probably only one more, but I wouldn’t be surprised if she had a drawer somewhere).</p>
-
-                    <p class="text-faded">All is forgotten of the aforementioned argument that night, we hold each other with tears in our eyes and laughing due to the irony of what just happened. I may have mustered out: “guess we have no choice now,” as I look nervously over her shoulder at the pair of scissors behind her back….</p>
-
-                    <p class="text-faded">Just kidding (about the scissors)!</p>
-
-                    <blockquote style="color:black;"><em>If you like the above story and feel that others will enjoy it as well, please share! You can find links to the top social networking sites hovering on the screen below. Thanks!</em></blockquote>
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
-
-                </div>
+                </div><!-- ./col-lg-8 -->
 
 <!-- ADDITIONAL BLOG POSTS ================================================================================================================================================ -->
                 <div class="col-md-4 text-center">
@@ -439,11 +375,8 @@
 
                                     <p>Peace out!</p>
 
-<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
-=======
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -513,11 +446,8 @@
 
                                     <p><strong>P.S.</strong> I now understand why we have no recollection of our births. That shit is traumatic.</p>
 
-<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
-=======
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -569,11 +499,8 @@
 
                                     <p>You will soon see that our little Bambino is one tough SOB and she was damn good at getting me off work, un-planned (arriving a week early and now with a potential health issue). I would prefer to get off work for other reasons, but thank you dear. The holidays were now creeping up, we had just been admitted to the IWK (the bomb hasn't been dropped yet), and we don't even realize how our lives will change, yet again.</p>
 
-<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
-=======
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -619,11 +546,8 @@
 
                                     <p>Whoa! If you think that was a lot to take in, try listening to that in real life and try learning that your beautiful little lady could potentially have this disease. Dr. R was very good with his explanation as well as making sure we fully understood. We both nodded, both doctors left the room, and then came the waterworks. We both just let the emotions out. We cried, we held each other, we swore to the high heavens, and kept asking why? Being well versed in the woes of healthcare, we are always frustrated by how much people abuse the gift of health. Smoking, excessive drinking, hard drugs, eating crap, and not exercising to name a few. Most adults that get admitted into the hospital are not innocent in their ailments, some do very little to prevent them from happening and literally suck the life out of the “free” healthcare system we benefit from. Then we have a sweet and innocent new life brought into the world plagued with a disease; it’s not fair. It was one of the hardest pills to swallow, being first time parents and all. It is scary enough having a newborn with all of the unknowns, fears, excitement, and joy, but add a disease into that mix and you are playing a whole new ball game. Thank god I have had my amazing wife by my side for so long and knowing that this is just one more challenge in our relationship. We always face everything head on and together and we were determined that this would not end that. Once we vented and got through that sudden blow, we gathered ourselves and put our guard back up. We knew this was going to be a long trip to the hospital and we would have to be strong for everyone. I mean, who wants a room full of adults hysterically crying? That wouldn’t help anyone. At this point, we knew that there was definitely something wrong with our baby girl, not necessarily Biliary Atresia but definitely something. The rest of the week was dedicated to getting to the bottom of what was causing her jaundice and pale poop. Thank god babies are very resilient, too bad daddy isn’t so much</p>
 
-<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
-=======
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -685,7 +609,6 @@
 
                                     <p>That night everyone convinced me to finally leave the hospital, since I could not be by Isla’s side in surgery, and we stayed at the Snillis’ house. Watching some movies, having a beer and sleeping in their comfortable bed (a straw bed would be desirable after two weeks in a single and cot) was much needed. Besides Katie and I jumping and staring at each other intently each time a phone or microwave beeped, it was a pretty straightforward evening. Dr. Superstar had promised to have his staff inform us periodically of surgery updates, which were all: “progressing well.” Finally the final update came from Dr. Superstar himself who called to let us know the surgery went well and that he was ready to meet with us to go over post surgery expectations as well as to see how we were doing. The post surgery recovery stretched through Isla’s first Christmas, but I will talk about this in more detail in my next post. I promise, it will all be good news and then we can get back to the crazy-silly day-to-day shenanigans of Isla and her family!</p>
 
-<<<<<<< HEAD
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>
 
                                 </div>
@@ -805,8 +728,6 @@
                                     <p><a href="http://www.babysleepsite.com/baby-sleep-patterns/4-month-sleep-regression/" style="color:black;"><strong>Sleep Regression Article</strong></a></p>
 
                                     <blockquote style="color:black;"><em>Please Follow Giggles N Shit on Twitter, Facebook or Instagram to keep up to date with the latest blog posts and the latest updates of our family story. Don't forget to share with your friends!</em></blockquote>                                 
-=======
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

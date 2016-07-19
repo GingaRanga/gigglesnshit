@@ -321,7 +321,7 @@
                 <div class="col-xs-12 col-md-6 col-lg-3 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-thumbs-up wow bounceIn text-primary" data-wow-delay=".2s"></i>
-                        <h3>Follow & Like!</h3>
+                        <h3>Follow &amp; Like!</h3>
                         <p class="text-muted">I will be posting blogs quite frequently so make sure you like the <strong>Giggles N Shit Blog</strong> page on <a href="https://www.facebook.com/gigglesnshitblog/">Facebook</a> and <a href="https://www.instagram.com/gigglesnshitblog/">Instagram</a> so that you don't miss any new blog posts, important communications, as well exclusive pictures/moments! Also keep in mind that my blog posts will be very dynamic. They will contain pictures and videos... I find plain text makes my head spin after a while so I want to spruce it up for ya!</p>
                     </div>
                 </div>
@@ -337,13 +337,8 @@
           		<h2 class="text-center bg-dark" style="margin:0; padding:15px 0;">Click the images below to access the posts</h2>
 
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-4.php?id=4" class="portfolio-box">
                         <img src="img/portfolio/the-bomb-1.jpg" class="img-responsive" alt="blog post 4">
-=======
-                    <a href="pages/blog-1.php?id=1" class="portfolio-box">
-                        <img src="img/portfolio/announcement.jpg" class="img-responsive" alt="blog post 1">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -356,14 +351,10 @@
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-5.php?id=5" class="portfolio-box">
                         <img src="img/portfolio/hospital.jpg" class="img-responsive" alt="blog post 5">
-=======
-                    <a href="pages/blog-2.php?id=2" class="portfolio-box">
-                        <img src="img/portfolio/watermelon.JPG" class="img-responsive" alt="blog post 2">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -376,14 +367,10 @@
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-6.php?id=6" class="portfolio-box">
                         <img src="img/portfolio/xmas.jpg" class="img-responsive" alt="blog post 6">
-=======
-                    <a href="pages/blog-3.php?id=3" class="portfolio-box">
-                        <img src="img/portfolio/peanut.jpg" class="img-responsive" alt="blog post 3">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -396,14 +383,10 @@
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-7.php?id=7" class="portfolio-box">
                         <img src="img/portfolio/santa.jpg" class="img-responsive" alt="blog post 7">
-=======
-                    <a href="pages/blog-4.php?id=4" class="portfolio-box">
-                        <img src="img/portfolio/the-bomb-1.jpg" class="img-responsive" alt="blog post 4">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -416,14 +399,10 @@
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-8.php?id=8" class="portfolio-box">
                         <img src="img/portfolio/car_seat.jpg" class="img-responsive" alt="blog post 8">
-=======
-                    <a href="pages/blog-5.php?id=5" class="portfolio-box">
-                        <img src="img/portfolio/hospital.jpg" class="img-responsive" alt="blog post 5">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -436,8 +415,8 @@
                         </div>
                     </a>
                 </div>
+                
                 <div class="col-lg-4 col-sm-6">
-<<<<<<< HEAD
                     <a href="pages/blog-9.php?id=9" class="portfolio-box">
                         <img src="img/portfolio/pooface.jpg" class="img-responsive" alt="blog post 9">
                         <div class="portfolio-box-caption">
@@ -447,22 +426,12 @@
                                 </div>
                                 <div class="project-name">
                                     June 22<sup>nd</sup>, 2016
-=======
-                    <a href="pages/blog-6.php?id=6" class="portfolio-box">
-                        <img src="img/portfolio/xmas.jpg" class="img-responsive" alt="blog post 6">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    "Tough Cookie"
-                                </div>
-                                <div class="project-name">
-                                    April 26<sup>th</sup>, 2016
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                               	</div>
+                         	</div>
+                      	</div>
+                 	</a>
+             	</div>
+                
             </div>
         </div>
     </section>
@@ -475,10 +444,6 @@
       	<i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
       	<p><a href="mailto:evanmarshall1986@gmail.com">EMAIL ME!</a></p>
  	</div>
-<<<<<<< HEAD
-=======
-    acco
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
 <!-- SOCIAL ACCOUNTS ================================================================================================================================================ -->
 <section id="social">
     <div class="container">
@@ -489,59 +454,34 @@
                 <hr class="primary">
             </div>
 
-<<<<<<< HEAD
-            <div class="col-xs-6 col-md-3 text-center">
-=======
             <div class="col-lg-3 col-md-6 text-center">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <div class="service-box">
                     <a href="https://www.facebook.com/gigglesnshitblog/"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     <h3>Facebook</h3>
                 </div>
             </div>
 
-<<<<<<< HEAD
-            <div class="col-xs-6 col-md-3 text-center">
+            <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <a href="https://www.instagram.com/gigglesnshitblog/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     <h3>Instagram</h3>
                 </div>
             </div>
 
-            <div class="col-xs-6 col-md-3 text-center">
-=======
             <div class="col-lg-3 col-md-6 text-center">
-                <div class="service-box">
-                    <a href="https://www.instagram.com/gigglesnshitblog/"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    <h3>Instagram</h3>
-                    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BDsirZTPSQA/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Hard as nails. Don&#39;t mess with me and my exersaucer! Follow this page on Facebook for more great pics! Share your own cute baby photos. Head on over to www.gigglesnshit.com to read about my story! #gigglesnshitblog #baby #babygirl #gdupfromthefeetup #gansta #exersaucer #family</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Evan Marshall (@gigglesnshitblog) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-04-02T11:20:02+00:00">Apr 2, 2016 at 4:20am PDT</time></p></div></blockquote>
-                    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 text-center">
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
                 <div class="service-box">
                     <a href="https://www.etsy.com/ca/shop/BabyIslay?ref=shopinfo_shophome_leftnav"><i class="fa fa-shopping-cart fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     <h3>Etsy</h3>
                 </div>
             </div>
 
-<<<<<<< HEAD
-            <div class="col-xs-6 col-md-3 text-center">
-                <div class="service-box">
-                    <a href="https://twitter.com/gigglesshitblog"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
-                    <h3>Twitter</h3>
-=======
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <a href="https://twitter.com/gigglesshitblog"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
                     <h3>Twitter</h3>
-                    <a class="twitter-timeline" href="https://twitter.com/gigglesshitblog" data-widget-id="724953192434388992">Tweets by @gigglesshitblog</a>
-					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
->>>>>>> cfeaea42cea1dfeb7854a1530d3690e6045bedad
-                </div>
-            </div><br><br>
+             	</div>
+         	</div>
+                    
         </div>
     </div>
 </section>
